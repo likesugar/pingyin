@@ -1,0 +1,3502 @@
+阿	ā		a
+啊	a		a
+哎	āi		ai
+哀	āi		ai
+唉	āi		ai
+埃	āi		ai
+挨	āi		ai
+癌	ái		ai
+矮	ǎi		ai
+艾	ài		ai
+爱	ài		ai
+碍	ài		ai
+安	ān		an
+氨	ān		an
+俺	ǎn		an
+岸	àn		an
+按	àn		an
+案	àn		an
+暗	àn		an
+昂	áng		ang
+凹	āo		ao
+熬	áo		ao
+傲	ào		ao
+奥	ào		ao
+澳	ào		ao
+八	bā	b	a
+巴	bā	b	a
+叭	bā	b	a
+吧	ba	b	a
+拔	bá	b	a
+把	bǎ	b	a
+坝	bà	b	a
+爸	bà	b	a
+罢	bà	b	a
+霸	bà	b	a
+白	bái	b	ai
+百	bǎi	b	ai
+柏	bǎi	b	ai
+摆	bǎi	b	ai
+败	bài	b	ai
+拜	bài	b	ai
+班	bān	b	an
+般	bān	b	an
+颁	bān	b	an
+斑	bān	b	an
+搬	bān	b	an
+板	bǎn	b	an
+版	bǎn	b	an
+办	bàn	b	an
+半	bàn	b	an
+伴	bàn	b	an
+扮	bàn	b	an
+瓣	bàn	b	an
+邦	bāng	b	ang
+帮	bāng	b	ang
+膀	bǎng	b	ang
+傍	bàng	b	ang
+棒	bàng	b	ang
+包	bāo	b	ao
+胞	bāo	b	ao
+宝	bǎo	b	ao
+饱	bǎo	b	ao
+保	bǎo	b	ao
+堡	bǎo	b	ao
+报	bào	b	ao
+抱	bào	b	ao
+豹	bào	b	ao
+暴	bào	b	ao
+爆	bào	b	ao
+卑	bēi	b	ei
+杯	bēi	b	ei
+悲	bēi	b	ei
+碑	bēi	b	ei
+北	běi	b	ei
+贝	bèi	b	ei
+备	bèi	b	ei
+背	bèi	b	ei
+倍	bèi	b	ei
+被	bèi	b	ei
+辈	bèi	b	ei
+奔	bēn	b	en
+本	běn	b	en
+崩	bēng	b	eng
+逼	bī	b	i
+鼻	bí	b	i
+比	bǐ	b	i
+彼	bǐ	b	i
+笔	bǐ	b	i
+币	bì	b	i
+必	bì	b	i
+毕	bì	b	i
+闭	bì	b	i
+辟	pì	p	i
+碧	bì	b	i
+蔽	bì	b	i
+壁	bì	b	i
+避	bì	b	i
+臂	bì	b	i
+边	biān	b	ian
+编	biān	b	ian
+蝙	biān	b	ian
+鞭	biān	b	ian
+扁	biǎn	b	ian
+便	biàn	b	ian
+变	biàn	b	ian
+遍	biàn	b	ian
+辨	biàn	b	ian
+辩	biàn	b	ian
+标	biāo	b	iao
+表	biǎo	b	iao
+别	bié	b	ie
+宾	bīn	b	in
+滨	bīn	b	in
+冰	bīng	b	ing
+兵	bīng	b	ing
+丙	bǐng	b	ing
+柄	bǐng	b	ing
+饼	bǐng	b	ing
+并	bìng	b	ing
+病	bìng	b	ing
+拨	bō	b	o
+波	bō	b	o
+玻	bō	b	o
+剥	bō	b	o
+播	bō	b	o
+脖	bó	b	o
+伯	bó	b	o
+驳	bó	b	o
+泊	pō	p	o
+勃	bó	b	o
+博	bó	b	o
+搏	bó	b	o
+膊	bó	b	o
+薄	báo	b	ao
+卜	bo	b	o
+补	bǔ	b	u
+捕	bǔ	b	u
+不	bù	b	u
+布	bù	b	u
+步	bù	b	u
+部	bù	b	u
+擦	cā	c	a
+猜	cāi	c	ai
+才	cái	c	ai
+材	cái	c	ai
+财	cái	c	ai
+裁	cái	c	ai
+采	cǎi	c	ai
+彩	cǎi	c	ai
+踩	cǎi	c	ai
+菜	cài	c	ai
+蔡	cài	c	ai
+参	cān	c	an
+餐	cān	c	an
+残	cán	c	an
+蚕	cán	c	an
+惨	cǎn	c	an
+灿	càn	c	an
+仓	cāng	c	ang
+苍	cāng	c	ang
+舱	cāng	c	ang
+藏	cáng	c	ang
+操	cāo	c	ao
+曹	cáo	c	ao
+槽	cáo	c	ao
+草	cǎo	c	ao
+册	cè	c	e
+侧	cè	c	e
+测	cè	c	e
+策	cè	c	e
+层	céng	c	eng
+叉	chā	ch	a
+插	chā	ch	a
+查	chá	ch	a
+茶	chá	ch	a
+察	chá	ch	a
+差	chà	ch	a
+拆	chāi	ch	ai
+柴	chái	ch	ai
+缠	chán	ch	an
+产	chǎn	ch	an
+阐	chǎn	ch	an
+颤	chàn	ch	an
+昌	chāng	ch	ang
+长	zhǎng	zh	ang
+肠	cháng	ch	ang
+尝	cháng	ch	ang
+偿	cháng	ch	ang
+常	cháng	ch	ang
+厂	chǎng	ch	ang
+场	chǎng	ch	ang
+畅	chàng	ch	ang
+倡	chàng	ch	ang
+唱	chàng	ch	ang
+抄	chāo	ch	ao
+超	chāo	ch	ao
+巢	cháo	ch	ao
+朝	cháo	ch	ao
+潮	cháo	ch	ao
+吵	chǎo	ch	ao
+炒	chǎo	ch	ao
+车	chē	ch	e
+扯	chě	ch	e
+彻	chè	ch	e
+撤	chè	ch	e
+尘	chén	ch	en
+臣	chén	ch	en
+沉	chén	ch	en
+陈	chén	ch	en
+闯	chuǎng	ch	uang
+衬	chèn	ch	en
+称	chēng	ch	eng
+趁	chèn	ch	en
+撑	chēng	ch	eng
+成	chéng	ch	eng
+呈	chéng	ch	eng
+承	chéng	ch	eng
+诚	chéng	ch	eng
+城	chéng	ch	eng
+乘	chéng	ch	eng
+惩	chéng	ch	eng
+程	chéng	ch	eng
+橙	chéng	ch	eng
+吃	chī	ch	i
+池	chí	ch	i
+驰	chí	ch	i
+迟	chí	ch	i
+持	chí	ch	i
+匙	shi	sh	i
+尺	chǐ	ch	i
+齿	chǐ	ch	i
+斥	chì	ch	i
+赤	chì	ch	i
+翅	chì	ch	i
+充	chōng	ch	ong
+冲	chōng	ch	ong
+虫	chóng	ch	ong
+崇	chóng	ch	ong
+抽	chōu	ch	ou
+仇	chóu	ch	ou
+绸	chóu	ch	ou
+愁	chóu	ch	ou
+筹	chóu	ch	ou
+酬	chóu	ch	ou
+丑	chǒu	ch	ou
+瞅	chǒu	ch	ou
+臭	chòu	ch	ou
+出	chū	ch	u
+初	chū	ch	u
+除	chú	ch	u
+厨	chú	ch	u
+础	chǔ	ch	u
+储	chǔ	ch	u
+楚	chǔ	ch	u
+处	chù	ch	u
+触	chù	ch	u
+川	chuān	ch	uan
+穿	chuān	ch	uan
+传	chuán	ch	uan
+船	chuán	ch	uan
+喘	chuǎn	ch	uan
+串	chuàn	ch	uan
+窗	chuāng	ch	uang
+床	chuáng	ch	uang
+晨	chén	ch	en
+创	chuàng	ch	uang
+吹	chuī	ch	uei
+垂	chuí	ch	uei
+锤	chuí	ch	uei
+春	chūn	ch	uen
+纯	chún	ch	uen
+唇	chún	ch	uen
+醇	chún	ch	uen
+词	cí	c	i
+瓷	cí	c	i
+慈	cí	c	i
+辞	cí	c	i
+磁	cí	c	i
+雌	cí	c	i
+此	cǐ	c	i
+次	cì	c	i
+刺	cì	c	i
+从	cóng	c	ong
+匆	cōng	c	ong
+葱	cōng	c	ong
+聪	cōng	c	ong
+丛	cóng	c	ong
+凑	còu	c	ou
+粗	cū	c	u
+促	cù	c	u
+催	cuī	c	uei
+脆	cuì	c	uei
+翠	cuì	c	uei
+村	cūn	c	uen
+存	cún	c	uen
+寸	cùn	c	uen
+措	cuò	c	uo
+错	cuò	c	uo
+搭	dā	d	a
+达	dá	d	a
+答	dá	d	a
+打	dǎ	d	a
+大	dà	d	a
+呆	dāi	d	ai
+代	dài	d	ai
+带	dài	d	ai
+待	dài	d	ai
+袋	dài	d	ai
+逮	dǎi	d	ai
+戴	dài	d	ai
+丹	dān	d	an
+单	dān	d	an
+担	dān	d	an
+胆	dǎn	d	an
+旦	dàn	d	an
+但	dàn	d	an
+诞	dàn	d	an
+弹	dàn	d	an
+淡	dàn	d	an
+蛋	dàn	d	an
+氮	dàn	d	an
+当	dāng	d	ang
+挡	dǎng	d	ang
+党	dǎng	d	ang
+荡	dàng	d	ang
+刀	dāo	d	ao
+导	dǎo	d	ao
+岛	dǎo	d	ao
+倒	dào	d	ao
+蹈	dǎo	d	ao
+到	dào	d	ao
+盗	dào	d	ao
+道	dào	d	ao
+稻	dào	d	ao
+得	dé	d	e
+德	dé	d	e
+的	de	d	e
+灯	dēng	d	eng
+登	dēng	d	eng
+等	děng	d	eng
+邓	dèng	d	eng
+凳	dèng	d	eng
+瞪	dèng	d	eng
+低	dī	d	i
+堤	dī	d	i
+滴	dī	d	i
+迪	dí	d	i
+敌	dí	d	i
+笛	dí	d	i
+底	dǐ	d	i
+抵	dǐ	d	i
+地	dì	d	i
+弟	dì	d	i
+帝	dì	d	i
+递	dì	d	i
+第	dì	d	i
+颠	diān	d	ian
+典	diǎn	d	ian
+点	diǎn	d	ian
+电	diàn	d	ian
+店	diàn	d	ian
+垫	diàn	d	ian
+淀	diàn	d	ian
+殿	diàn	d	ian
+雕	diāo	d	iao
+吊	diào	d	iao
+钓	diào	d	iao
+调	diào	d	iao
+掉	diào	d	iao
+爹	diē	d	ie
+跌	diē	d	ie
+叠	dié	d	ie
+蝶	dié	d	ie
+丁	dīng	d	ing
+叮	dīng	d	ing
+盯	dīng	d	ing
+钉	dīng	d	ing
+顶	dǐng	d	ing
+订	dìng	d	ing
+定	dìng	d	ing
+丢	diū	d	iou
+东	dōng	d	ong
+冬	dōng	d	ong
+懂	dǒng	d	ong
+动	dòng	d	ong
+冻	dòng	d	ong
+洞	dòng	d	ong
+都	dōu	d	ou
+斗	dòu	d	ou
+抖	dǒu	d	ou
+陡	dǒu	d	ou
+豆	dòu	d	ou
+督	dū	d	u
+毒	dú	d	u
+读	dú	d	u
+独	dú	d	u
+堵	dǔ	d	u
+赌	dǔ	d	u
+杜	dù	d	u
+肚	dù	d	u
+度	dù	d	u
+渡	dù	d	u
+端	duān	d	uan
+短	duǎn	d	uan
+段	duàn	d	uan
+断	duàn	d	uan
+锻	duàn	d	uan
+堆	duī	d	uei
+队	duì	d	uei
+对	duì	d	uei
+吨	dūn	d	uen
+敦	dūn	d	uen
+蹲	dūn	d	uen
+盾	dùn	d	uen
+顿	dùn	d	uen
+多	duō	d	uo
+夺	duó	d	uo
+朵	duǒ	d	uo
+躲	duǒ	d	uo
+俄	é		e
+鹅	é		e
+额	é		e
+恶	è		e
+饿	è		e
+鳄	è		e
+恩	ēn		en
+儿	ér		er
+而	ér		er
+尔	ěr		er
+耳	ěr		er
+二	èr		er
+发	fā	f	a
+乏	fá	f	a
+伐	fá	f	a
+罚	fá	f	a
+阀	fá	f	a
+法	fǎ	f	a
+帆	fān	f	an
+番	fān	f	an
+翻	fān	f	an
+凡	fán	f	an
+烦	fán	f	an
+繁	fán	f	an
+反	fǎn	f	an
+返	fǎn	f	an
+犯	fàn	f	an
+泛	fàn	f	an
+饭	fàn	f	an
+范	fàn	f	an
+贩	fàn	f	an
+方	fāng	f	ang
+坊	fāng	f	ang
+芳	fāng	f	ang
+防	fáng	f	ang
+妨	fáng	f	ang
+房	fáng	f	ang
+肪	fáng	f	ang
+仿	fǎng	f	ang
+访	fǎng	f	ang
+纺	fǎng	f	ang
+放	fàng	f	ang
+飞	fēi	f	ei
+非	fēi	f	ei
+啡	fēi	f	ei
+菲	fēi	f	ei
+肥	féi	f	ei
+废	fèi	f	ei
+沸	fèi	f	ei
+肺	fèi	f	ei
+费	fèi	f	ei
+分	fēn	f	en
+纷	fēn	f	en
+芬	fēn	f	en
+坟	fén	f	en
+粉	fěn	f	en
+份	fèn	f	en
+奋	fèn	f	en
+愤	fèn	f	en
+粪	fèn	f	en
+丰	fēng	f	eng
+风	fēng	f	eng
+枫	fēng	f	eng
+封	fēng	f	eng
+疯	fēng	f	eng
+峰	fēng	f	eng
+锋	fēng	f	eng
+蜂	fēng	f	eng
+冯	féng	f	eng
+逢	féng	f	eng
+缝	fèng	f	eng
+凤	fèng	f	eng
+奉	fèng	f	eng
+佛	fú	f	u
+否	fǒu	f	ou
+夫	fū	f	u
+肤	fū	f	u
+孵	fū	f	u
+弗	fú	f	u
+伏	fú	f	u
+扶	fú	f	u
+服	fú	f	u
+浮	fú	f	u
+符	fú	f	u
+幅	fú	f	u
+福	fú	f	u
+辐	fú	f	u
+蝠	fú	f	u
+抚	fǔ	f	u
+府	fǔ	f	u
+辅	fǔ	f	u
+腐	fǔ	f	u
+父	fù	f	u
+付	fù	f	u
+妇	fù	f	u
+负	fù	f	u
+附	fù	f	u
+复	fù	f	u
+赴	fù	f	u
+副	fù	f	u
+傅	fù	f	u
+富	fù	f	u
+赋	fù	f	u
+腹	fù	f	u
+覆	fù	f	u
+该	gāi	g	ai
+改	gǎi	g	ai
+钙	gài	g	ai
+盖	gài	g	ai
+溉	gài	g	ai
+概	gài	g	ai
+干	gàn	g	an
+甘	gān	g	an
+杆	gān	g	an
+肝	gān	g	an
+赶	gǎn	g	an
+敢	gǎn	g	an
+感	gǎn	g	an
+刚	gāng	g	ang
+岗	gǎng	g	ang
+纲	gāng	g	ang
+缸	gāng	g	ang
+钢	gāng	g	ang
+港	gǎng	g	ang
+高	gāo	g	ao
+搞	gǎo	g	ao
+稿	gǎo	g	ao
+告	gào	g	ao
+戈	gē	g	e
+哥	gē	g	e
+胳	gē	g	e
+鸽	gē	g	e
+割	gē	g	e
+歌	gē	g	e
+阁	gé	g	e
+革	gé	g	e
+格	gé	g	e
+葛	gé	g	e
+隔	gé	g	e
+个	gè	g	e
+各	gè	g	e
+给	gěi	g	ei
+根	gēn	g	en
+跟	gēn	g	en
+更	gèng	g	eng
+耕	gēng	g	eng
+工	gōng	g	ong
+弓	gōng	g	ong
+公	gōng	g	ong
+功	gōng	g	ong
+攻	gōng	g	ong
+供	gōng	g	ong
+宫	gōng	g	ong
+恭	gōng	g	ong
+巩	gǒng	g	ong
+拱	gǒng	g	ong
+共	gòng	g	ong
+贡	gòng	g	ong
+勾	gōu	g	ou
+沟	gōu	g	ou
+钩	gōu	g	ou
+狗	gǒu	g	ou
+构	gòu	g	ou
+购	gòu	g	ou
+够	gòu	g	ou
+估	gū	g	u
+咕	gū	g	u
+姑	gū	g	u
+孤	gū	g	u
+菇	gū	g	u
+古	gǔ	g	u
+谷	gǔ	g	u
+股	gǔ	g	u
+骨	gǔ	g	u
+鼓	gǔ	g	u
+固	gù	g	u
+故	gù	g	u
+顾	gù	g	u
+瓜	guā	g	ua
+刮	guā	g	ua
+挂	guà	g	ua
+拐	guǎi	g	uai
+怪	guài	g	uai
+关	guān	g	uan
+观	guān	g	uan
+官	guān	g	uan
+冠	guān	g	uan
+馆	guǎn	g	uan
+管	guǎn	g	uan
+贯	guàn	g	uan
+惯	guàn	g	uan
+灌	guàn	g	uan
+罐	guàn	g	uan
+光	guāng	g	uang
+广	guǎng	g	uang
+归	guī	g	uei
+龟	guī	g	uei
+规	guī	g	uei
+硅	guī	g	uei
+轨	guǐ	g	uei
+鬼	guǐ	g	uei
+柜	guì	g	uei
+贵	guì	g	uei
+桂	guì	g	uei
+滚	gǔn	g	uen
+棍	gùn	g	uen
+郭	guō	g	uo
+锅	guō	g	uo
+国	guó	g	uo
+果	guǒ	g	uo
+裹	guǒ	g	uo
+过	guò	g	uo
+哈	hā	h	a
+孩	hái	h	ai
+海	hǎi	h	ai
+害	hài	h	ai
+含	hán	h	an
+函	hán	h	an
+寒	hán	h	an
+韩	hán	h	an
+罕	hǎn	h	an
+喊	hǎn	h	an
+汉	hàn	h	an
+汗	hàn	h	an
+旱	hàn	h	an
+杭	háng	h	ang
+航	háng	h	ang
+毫	háo	h	ao
+豪	háo	h	ao
+好	hǎo	h	ao
+号	hào	h	ao
+浩	hào	h	ao
+耗	hào	h	ao
+呵	hē	h	e
+喝	hē	h	e
+合	hé	h	e
+何	hé	h	e
+和	hé	h	e
+河	hé	h	e
+核	hé	h	e
+荷	hé	h	e
+盒	hé	h	e
+贺	hè	h	e
+褐	hè	h	e
+赫	hè	h	e
+鹤	hè	h	e
+黑	hēi	h	ei
+嘿	hēi	h	ei
+痕	hén	h	en
+很	hěn	h	en
+狠	hěn	h	en
+恨	hèn	h	en
+哼	hēng	h	eng
+恒	héng	h	eng
+横	héng	h	eng
+衡	héng	h	eng
+轰	hōng	h	ong
+哄	hǒng	h	ong
+红	hóng	h	ong
+宏	hóng	h	ong
+洪	hóng	h	ong
+虹	hóng	h	ong
+鸿	hóng	h	ong
+侯	hóu	h	ou
+喉	hóu	h	ou
+猴	hóu	h	ou
+吼	hǒu	h	ou
+后	hòu	h	ou
+厚	hòu	h	ou
+候	hòu	h	ou
+乎	hū	h	u
+呼	hū	h	u
+忽	hū	h	u
+狐	hú	h	u
+胡	hú	h	u
+壶	hú	h	u
+湖	hú	h	u
+葫	hú	h	u
+糊	hú	h	u
+蝴	hú	h	u
+虎	hǔ	h	u
+互	hù	h	u
+户	hù	h	u
+护	hù	h	u
+花	huā	h	ua
+华	huá	h	ua
+哗	huā	h	ua
+滑	huá	h	ua
+化	huà	h	ua
+划	huà	h	ua
+画	huà	h	ua
+话	huà	h	ua
+桦	huà	h	ua
+怀	huái	h	uai
+淮	huái	h	uai
+坏	huài	h	uai
+欢	huān	h	uan
+还	hái	h	ai
+环	huán	h	uan
+缓	huǎn	h	uan
+幻	huàn	h	uan
+唤	huàn	h	uan
+换	huàn	h	uan
+患	huàn	h	uan
+荒	huāng	h	uang
+慌	huāng	h	uang
+皇	huáng	h	uang
+黄	huáng	h	uang
+煌	huáng	h	uang
+晃	huǎng	h	uang
+灰	huī	h	uei
+恢	huī	h	uei
+挥	huī	h	uei
+辉	huī	h	uei
+徽	huī	h	uei
+回	huí	h	uei
+毁	huǐ	h	uei
+悔	huǐ	h	uei
+汇	huì	h	uei
+会	huì	h	uei
+绘	huì	h	uei
+惠	huì	h	uei
+慧	huì	h	uei
+昏	hūn	h	uen
+婚	hūn	h	uen
+浑	hún	h	uen
+魂	hún	h	uen
+混	hùn	h	uen
+活	huó	h	uo
+火	huǒ	h	uo
+伙	huǒ	h	uo
+或	huò	h	uo
+货	huò	h	uo
+获	huò	h	uo
+祸	huò	h	uo
+惑	huò	h	uo
+霍	huò	h	uo
+击	jī	j	i
+饥	jī	j	i
+圾	jī	j	i
+机	jī	j	i
+肌	jī	j	i
+鸡	jī	j	i
+积	jī	j	i
+基	jī	j	i
+迹	jì	j	i
+绩	jì	j	i
+激	jī	j	i
+及	jí	j	i
+吉	jí	j	i
+级	jí	j	i
+即	jí	j	i
+极	jí	j	i
+急	jí	j	i
+疾	jí	j	i
+集	jí	j	i
+辑	jí	j	i
+籍	jí	j	i
+几	jǐ	j	i
+己	jǐ	j	i
+挤	jǐ	j	i
+脊	jí	j	i
+计	jì	j	i
+记	jì	j	i
+纪	jì	j	i
+忌	jì	j	i
+技	jì	j	i
+际	jì	j	i
+剂	jì	j	i
+季	jì	j	i
+既	jì	j	i
+济	jì	j	i
+继	jì	j	i
+寂	jì	j	i
+寄	jì	j	i
+加	jiā	j	ia
+夹	jiā	j	ia
+佳	jiā	j	ia
+家	jiā	j	ia
+嘉	jiā	j	ia
+甲	jiǎ	j	ia
+贾	jiǎ	j	ia
+钾	jiǎ	j	ia
+价	jià	j	ia
+驾	jià	j	ia
+架	jià	j	ia
+假	jiǎ	j	ia
+嫁	jià	j	ia
+稼	jià	j	ia
+尖	jiān	j	ian
+坚	jiān	j	ian
+间	jiān	j	ian
+肩	jiān	j	ian
+艰	jiān	j	ian
+兼	jiān	j	ian
+监	jiān	j	ian
+减	jiǎn	j	ian
+剪	jiǎn	j	ian
+检	jiǎn	j	ian
+简	jiǎn	j	ian
+碱	jiǎn	j	ian
+见	jiàn	j	ian
+件	jiàn	j	ian
+建	jiàn	j	ian
+剑	jiàn	j	ian
+健	jiàn	j	ian
+舰	jiàn	j	ian
+渐	jiàn	j	ian
+践	jiàn	j	ian
+鉴	jiàn	j	ian
+键	jiàn	j	ian
+箭	jiàn	j	ian
+江	jiāng	j	iang
+姜	jiāng	j	iang
+将	jiāng	j	iang
+浆	jiāng	j	iang
+僵	jiāng	j	iang
+疆	jiāng	j	iang
+讲	jiǎng	j	iang
+奖	jiǎng	j	iang
+蒋	jiǎng	j	iang
+匠	jiàng	j	iang
+降	jiàng	j	iang
+交	jiāo	j	iao
+郊	jiāo	j	iao
+娇	jiāo	j	iao
+浇	jiāo	j	iao
+骄	jiāo	j	iao
+胶	jiāo	j	iao
+焦	jiāo	j	iao
+礁	jiāo	j	iao
+角	jiǎo	j	iao
+脚	jiǎo	j	iao
+搅	jiǎo	j	iao
+叫	jiào	j	iao
+轿	jiào	j	iao
+较	jiào	j	iao
+教	jiào	j	iao
+阶	jiē	j	ie
+皆	jiē	j	ie
+接	jiē	j	ie
+揭	jiē	j	ie
+街	jiē	j	ie
+节	jié	j	ie
+劫	jié	j	ie
+杰	jié	j	ie
+洁	jié	j	ie
+结	jié	j	ie
+捷	jié	j	ie
+截	jié	j	ie
+竭	jié	j	ie
+姐	jiě	j	ie
+解	jiě	j	ie
+介	jiè	j	ie
+戒	jiè	j	ie
+届	jiè	j	ie
+界	jiè	j	ie
+借	jiè	j	ie
+巾	jīn	j	in
+今	jīn	j	in
+斤	jīn	j	in
+金	jīn	j	in
+津	jīn	j	in
+筋	jīn	j	in
+仅	jǐn	j	in
+紧	jǐn	j	in
+锦	jǐn	j	in
+尽	jǐn	j	in
+劲	jìn	j	in
+近	jìn	j	in
+进	jìn	j	in
+晋	jìn	j	in
+浸	jìn	j	in
+禁	jìn	j	in
+京	jīng	j	ing
+经	jīng	j	ing
+茎	jīng	j	ing
+惊	jīng	j	ing
+晶	jīng	j	ing
+睛	jīng	j	ing
+精	jīng	j	ing
+鲸	jīng	j	ing
+井	jǐng	j	ing
+颈	jǐng	j	ing
+景	jǐng	j	ing
+警	jǐng	j	ing
+净	jìng	j	ing
+径	jìng	j	ing
+竞	jìng	j	ing
+竟	jìng	j	ing
+敬	jìng	j	ing
+境	jìng	j	ing
+静	jìng	j	ing
+镜	jìng	j	ing
+纠	jiū	j	iou
+究	jiū	j	iou
+九	jiǔ	j	iou
+久	jiǔ	j	iou
+酒	jiǔ	j	iou
+旧	jiù	j	iou
+救	jiù	j	iou
+就	jiù	j	iou
+舅	jiù	j	iou
+居	jū	j	v
+局	jú	j	v
+菊	jú	j	v
+橘	jú	j	v
+举	jǔ	j	v
+矩	jǔ	j	v
+句	jù	j	v
+巨	jù	j	v
+拒	jù	j	v
+具	jù	j	v
+俱	jù	j	v
+剧	jù	j	v
+惧	jù	j	v
+据	jù	j	v
+距	jù	j	v
+聚	jù	j	v
+卷	juǎn	j	van
+倦	juàn	j	van
+决	jué	j	ve
+绝	jué	j	ve
+觉	jué	j	ve
+掘	jué	j	ve
+嚼	jué	j	ve
+军	jūn	j	vn
+君	jūn	j	vn
+均	jūn	j	vn
+菌	jūn	j	vn
+俊	jùn	j	vn
+峻	jùn	j	vn
+卡	kǎ	k	a
+开	kāi	k	ai
+凯	kǎi	k	ai
+慨	kǎi	k	ai
+刊	kān	k	an
+堪	kān	k	an
+砍	kǎn	k	an
+看	kàn	k	an
+康	kāng	k	ang
+抗	kàng	k	ang
+炕	kàng	k	ang
+考	kǎo	k	ao
+烤	kǎo	k	ao
+靠	kào	k	ao
+科	kē	k	e
+棵	kē	k	e
+颗	kē	k	e
+壳	ké	k	e
+咳	ké	k	e
+可	kě	k	e
+渴	kě	k	e
+克	kè	k	e
+刻	kè	k	e
+客	kè	k	e
+课	kè	k	e
+肯	kěn	k	en
+坑	kēng	k	eng
+空	kōng	k	ong
+孔	kǒng	k	ong
+恐	kǒng	k	ong
+控	kòng	k	ong
+口	kǒu	k	ou
+扣	kòu	k	ou
+枯	kū	k	u
+哭	kū	k	u
+苦	kǔ	k	u
+库	kù	k	u
+裤	kù	k	u
+酷	kù	k	u
+夸	kuā	k	ua
+跨	kuà	k	ua
+块	kuài	k	uai
+快	kuài	k	uai
+宽	kuān	k	uan
+款	kuǎn	k	uan
+狂	kuáng	k	uang
+况	kuàng	k	uang
+矿	kuàng	k	uang
+亏	kuī	k	uei
+葵	kuí	k	uei
+愧	kuì	k	uei
+溃	kuì	k	uei
+昆	kūn	k	uen
+困	kùn	k	uen
+扩	kuò	k	uo
+括	kuò	k	uo
+阔	kuò	k	uo
+垃	lā	l	a
+拉	lā	l	a
+啦	la	l	a
+喇	lǎ	l	a
+腊	là	l	a
+蜡	là	l	a
+辣	là	l	a
+来	lái	l	ai
+莱	lái	l	ai
+赖	lài	l	ai
+兰	lán	l	an
+拦	lán	l	an
+栏	lán	l	an
+蓝	lán	l	an
+篮	lán	l	an
+览	lǎn	l	an
+懒	lǎn	l	an
+烂	làn	l	an
+滥	làn	l	an
+郎	láng	l	ang
+狼	láng	l	ang
+廊	láng	l	ang
+朗	lǎng	l	ang
+浪	làng	l	ang
+捞	lāo	l	ao
+劳	láo	l	ao
+牢	láo	l	ao
+老	lǎo	l	ao
+乐	lè	l	e
+勒	lēi	l	ei
+雷	léi	l	ei
+蕾	lěi	l	ei
+泪	lèi	l	ei
+类	lèi	l	ei
+累	lèi	l	ei
+冷	lěng	l	eng
+愣	lèng	l	eng
+厘	lí	l	i
+梨	lí	l	i
+离	lí	l	i
+莉	lì	l	i
+犁	lí	l	i
+璃	lí	l	i
+黎	lí	l	i
+礼	lǐ	l	i
+李	lǐ	l	i
+里	lǐ	l	i
+哩	lī	l	i
+理	lǐ	l	i
+鲤	lǐ	l	i
+力	lì	l	i
+历	lì	l	i
+厉	lì	l	i
+立	lì	l	i
+丽	lì	l	i
+利	lì	l	i
+励	lì	l	i
+例	lì	l	i
+隶	lì	l	i
+粒	lì	l	i
+俩	liǎ	l	ia
+连	lián	l	ian
+帘	lián	l	ian
+怜	lián	l	ian
+莲	lián	l	ian
+联	lián	l	ian
+廉	lián	l	ian
+脸	liǎn	l	ian
+练	liàn	l	ian
+炼	liàn	l	ian
+恋	liàn	l	ian
+链	liàn	l	ian
+良	liáng	l	iang
+凉	liáng	l	iang
+梁	liáng	l	iang
+粮	liáng	l	iang
+两	liǎng	l	iang
+亮	liàng	l	iang
+辆	liàng	l	iang
+量	liàng	l	iang
+辽	liáo	l	iao
+疗	liáo	l	iao
+聊	liáo	l	iao
+僚	liáo	l	iao
+了	le	l	e
+料	liào	l	iao
+列	liè	l	ie
+劣	liè	l	ie
+烈	liè	l	ie
+猎	liè	l	ie
+裂	liè	l	ie
+邻	lín	l	in
+林	lín	l	in
+临	lín	l	in
+淋	lín	l	in
+磷	lín	l	in
+灵	líng	l	ing
+玲	líng	l	ing
+凌	líng	l	ing
+铃	líng	l	ing
+陵	líng	l	ing
+羚	líng	l	ing
+零	líng	l	ing
+龄	líng	l	ing
+领	lǐng	l	ing
+岭	lǐng	l	ing
+令	lìng	l	ing
+另	lìng	l	ing
+溜	liū	l	iou
+刘	liú	l	iou
+流	liú	l	iou
+留	liú	l	iou
+硫	liú	l	iou
+瘤	liú	l	iou
+柳	liǔ	l	iou
+六	liù	l	iou
+龙	lóng	l	ong
+笼	lóng	l	ong
+隆	lóng	l	ong
+垄	lǒng	l	ong
+拢	lǒng	l	ong
+楼	lóu	l	ou
+漏	lòu	l	ou
+露	lù	l	u
+卢	lú	l	u
+芦	lú	l	u
+炉	lú	l	u
+鲁	lǔ	l	u
+陆	lù	l	u
+录	lù	l	u
+鹿	lù	l	u
+碌	lù	l	u
+路	lù	l	u
+驴	lǘ	l	v
+旅	lǚ	l	v
+铝	lǚ	l	v
+履	lǚ	l	v
+律	lǜ	l	v
+虑	lǜ	l	v
+率	lǜ	l	v
+绿	lǜ	l	v
+氯	lǜ	l	v
+滤	lǜ	l	v
+卵	luǎn	l	uan
+乱	luàn	l	uan
+掠	lüè	l	ve
+略	lüè	l	ve
+伦	lún	l	uen
+轮	lún	l	uen
+论	lùn	l	uen
+罗	luó	l	uo
+萝	luó	l	uo
+逻	luó	l	uo
+螺	luó	l	uo
+裸	luǒ	l	uo
+洛	luò	l	uo
+络	luò	l	uo
+骆	luò	l	uo
+落	luò	l	uo
+妈	mā	m	a
+麻	má	m	a
+马	mǎ	m	a
+玛	mǎ	m	a
+码	mǎ	m	a
+蚂	mǎ	m	a
+骂	mà	m	a
+吗	ma	m	a
+嘛	ma	m	a
+埋	mái	m	ai
+买	mǎi	m	ai
+迈	mài	m	ai
+麦	mài	m	ai
+卖	mài	m	ai
+脉	mài	m	ai
+蛮	mán	m	an
+满	mǎn	m	an
+曼	màn	m	an
+慢	màn	m	an
+漫	màn	m	an
+忙	máng	m	ang
+芒	máng	m	ang
+盲	máng	m	ang
+茫	máng	m	ang
+猫	māo	m	ao
+毛	máo	m	ao
+矛	máo	m	ao
+茅	máo	m	ao
+茂	mào	m	ao
+冒	mào	m	ao
+贸	mào	m	ao
+帽	mào	m	ao
+貌	mào	m	ao
+么	me	m	e
+没	méi	m	ei
+枚	méi	m	ei
+玫	méi	m	ei
+眉	méi	m	ei
+梅	méi	m	ei
+媒	méi	m	ei
+煤	méi	m	ei
+霉	méi	m	ei
+每	měi	m	ei
+美	měi	m	ei
+妹	mèi	m	ei
+门	mén	m	en
+闷	mèn	m	en
+们	men	m	en
+萌	méng	m	eng
+盟	méng	m	eng
+猛	měng	m	eng
+蒙	méng	m	eng
+孟	mèng	m	eng
+梦	mèng	m	eng
+弥	mí	m	i
+迷	mí	m	i
+谜	mí	m	i
+米	mǐ	m	i
+泌	mì	m	i
+秘	mì	m	i
+密	mì	m	i
+蜜	mì	m	i
+眠	mián	m	ian
+绵	mián	m	ian
+棉	mián	m	ian
+免	miǎn	m	ian
+勉	miǎn	m	ian
+面	miàn	m	ian
+苗	miáo	m	iao
+描	miáo	m	iao
+秒	miǎo	m	iao
+妙	miào	m	iao
+庙	miào	m	iao
+灭	miè	m	ie
+民	mín	m	in
+敏	mǐn	m	in
+名	míng	m	ing
+明	míng	m	ing
+鸣	míng	m	ing
+命	mìng	m	ing
+摸	mō	m	o
+模	mó	m	o
+膜	mó	m	o
+摩	mó	m	o
+磨	mó	m	o
+蘑	mó	m	o
+魔	mó	m	o
+抹	mǒ	m	o
+末	mò	m	o
+沫	mò	m	o
+陌	mò	m	o
+莫	mò	m	o
+漠	mò	m	o
+墨	mò	m	o
+默	mò	m	o
+谋	móu	m	ou
+某	mǒu	m	ou
+母	mǔ	m	u
+亩	mǔ	m	u
+牡	mǔ	m	u
+姆	mǔ	m	u
+拇	mǔ	m	u
+木	mù	m	u
+目	mù	m	u
+牧	mù	m	u
+墓	mù	m	u
+幕	mù	m	u
+慕	mù	m	u
+穆	mù	m	u
+拿	ná	n	a
+哪	nǎ	n	a
+内	nèi	n	ei
+那	nà	n	a
+纳	nà	n	a
+娜	nà	n	a
+钠	nà	n	a
+乃	nǎi	n	ai
+奶	nǎi	n	ai
+奈	nài	n	ai
+耐	nài	n	ai
+男	nán	n	an
+南	nán	n	an
+难	nán	n	an
+囊	náng	n	ang
+恼	nǎo	n	ao
+脑	nǎo	n	ao
+闹	nào	n	ao
+呢	ne	n	e
+嫩	nèn	n	en
+能	néng	n	eng
+尼	ní	n	i
+泥	ní	n	i
+你	nǐ	n	i
+拟	nǐ	n	i
+逆	nì	n	i
+年	nián	n	ian
+念	niàn	n	ian
+娘	niáng	n	iang
+酿	niàng	n	iang
+鸟	niǎo	n	iao
+尿	niào	n	iao
+捏	niē	n	ie
+您	nín	n	in
+宁	níng	n	ing
+凝	níng	n	ing
+牛	niú	n	iou
+扭	niǔ	n	iou
+纽	niǔ	n	iou
+农	nóng	n	ong
+浓	nóng	n	ong
+弄	nòng	n	ong
+奴	nú	n	u
+努	nǔ	n	u
+怒	nù	n	u
+女	nǚ	n	v
+暖	nuǎn	n	uan
+挪	nuó	n	uo
+诺	nuò	n	uo
+哦	ó		o
+欧	ōu		ou
+偶	ǒu		ou
+爬	pá	p	a
+帕	pà	p	a
+怕	pà	p	a
+拍	pāi	p	ai
+排	pái	p	ai
+牌	pái	p	ai
+派	pài	p	ai
+攀	pān	p	an
+盘	pán	p	an
+判	pàn	p	an
+叛	pàn	p	an
+盼	pàn	p	an
+庞	páng	p	ang
+旁	páng	p	ang
+胖	pàng	p	ang
+抛	pāo	p	ao
+炮	pào	p	ao
+跑	pǎo	p	ao
+泡	pào	p	ao
+胚	pēi	p	ei
+陪	péi	p	ei
+培	péi	p	ei
+赔	péi	p	ei
+佩	pèi	p	ei
+配	pèi	p	ei
+喷	pēn	p	en
+盆	pén	p	en
+朋	péng	p	eng
+棚	péng	p	eng
+蓬	péng	p	eng
+鹏	péng	p	eng
+膨	péng	p	eng
+捧	pěng	p	eng
+碰	pèng	p	eng
+批	pī	p	i
+披	pī	p	i
+皮	pí	p	i
+疲	pí	p	i
+脾	pí	p	i
+匹	pǐ	p	i
+屁	pì	p	i
+譬	pì	p	i
+片	piàn	p	ian
+偏	piān	p	ian
+篇	piān	p	ian
+骗	piàn	p	ian
+漂	piāo	p	iao
+飘	piāo	p	iao
+瓢	piáo	p	iao
+票	piào	p	iao
+拼	pīn	p	in
+贫	pín	p	in
+频	pín	p	in
+品	pǐn	p	in
+平	píng	p	ing
+评	píng	p	ing
+凭	píng	p	ing
+苹	píng	p	ing
+屏	píng	p	ing
+瓶	píng	p	ing
+萍	píng	p	ing
+坡	pō	p	o
+泼	pō	p	o
+颇	pǒ	p	o
+婆	pó	p	o
+迫	pò	p	o
+破	pò	p	o
+剖	pōu	p	ou
+扑	pū	p	u
+铺	pù	p	u
+葡	pú	p	u
+蒲	pú	p	u
+朴	pǔ	p	u
+浦	pǔ	p	u
+普	pǔ	p	u
+谱	pǔ	p	u
+七	qī	q	i
+妻	qī	q	i
+栖	qī	q	i
+戚	qī	q	i
+期	qī	q	i
+欺	qī	q	i
+漆	qī	q	i
+齐	qí	q	i
+其	qí	q	i
+奇	qí	q	i
+歧	qí	q	i
+骑	qí	q	i
+棋	qí	q	i
+旗	qí	q	i
+企	qǐ	q	i
+岂	qǐ	q	i
+启	qǐ	q	i
+起	qǐ	q	i
+气	qì	q	i
+弃	qì	q	i
+汽	qì	q	i
+契	qì	q	i
+砌	qì	q	i
+器	qì	q	i
+恰	qià	q	ia
+千	qiān	q	ian
+迁	qiān	q	ian
+牵	qiān	q	ian
+铅	qiān	q	ian
+谦	qiān	q	ian
+签	qiān	q	ian
+前	qián	q	ian
+钱	qián	q	ian
+潜	qián	q	ian
+浅	qiǎn	q	ian
+遣	qiǎn	q	ian
+欠	qiàn	q	ian
+枪	qiāng	q	iang
+腔	qiāng	q	iang
+强	qiáng	q	iang
+墙	qiáng	q	iang
+抢	qiǎng	q	iang
+悄	qiāo	q	iao
+敲	qiāo	q	iao
+乔	qiáo	q	iao
+桥	qiáo	q	iao
+瞧	qiáo	q	iao
+巧	qiǎo	q	iao
+切	qiè	q	ie
+茄	jiā	j	ia
+且	qiě	q	ie
+窃	qiè	q	ie
+亲	qīn	q	in
+侵	qīn	q	in
+秦	qín	q	in
+琴	qín	q	in
+禽	qín	q	in
+勤	qín	q	in
+青	qīng	q	ing
+氢	qīng	q	ing
+轻	qīng	q	ing
+倾	qīng	q	ing
+清	qīng	q	ing
+情	qíng	q	ing
+晴	qíng	q	ing
+顷	qǐng	q	ing
+请	qǐng	q	ing
+庆	qìng	q	ing
+穷	qióng	q	iong
+丘	qiū	q	iou
+秋	qiū	q	iou
+蚯	qiū	q	iou
+求	qiú	q	iou
+球	qiú	q	iou
+区	qū	q	v
+曲	qū	q	v
+驱	qū	q	v
+屈	qū	q	v
+躯	qū	q	v
+趋	qū	q	v
+取	qǔ	q	v
+娶	qǔ	q	v
+去	qù	q	v
+趣	qù	q	v
+圈	quān	q	van
+全	quán	q	van
+权	quán	q	van
+泉	quán	q	van
+拳	quán	q	van
+犬	quǎn	q	van
+劝	quàn	q	van
+券	quàn	q	van
+缺	quē	q	ve
+却	què	q	ve
+雀	què	q	ve
+确	què	q	ve
+鹊	què	q	ve
+裙	qún	q	vn
+群	qún	q	vn
+然	rán	r	an
+燃	rán	r	an
+染	rǎn	r	an
+嚷	rǎng	r	ang
+壤	rǎng	r	ang
+让	ràng	r	ang
+饶	ráo	r	ao
+扰	rǎo	r	ao
+绕	rào	r	ao
+惹	rě	r	e
+热	rè	r	e
+人	rén	r	en
+仁	rén	r	en
+忍	rěn	r	en
+认	rèn	r	en
+任	rèn	r	en
+扔	rēng	r	eng
+仍	réng	r	eng
+日	rì	r	i
+绒	róng	r	ong
+荣	róng	r	ong
+容	róng	r	ong
+溶	róng	r	ong
+熔	róng	r	ong
+融	róng	r	ong
+柔	róu	r	ou
+肉	ròu	r	ou
+如	rú	r	u
+儒	rú	r	u
+乳	rǔ	r	u
+辱	rǔ	r	u
+入	rù	r	u
+软	ruǎn	r	uan
+锐	ruì	r	uei
+瑞	ruì	r	uei
+润	rùn	r	uen
+若	ruò	r	uo
+弱	ruò	r	uo
+撒	sā	s	a
+洒	sǎ	s	a
+萨	sà	s	a
+塞	sāi	s	ai
+赛	sài	s	ai
+三	sān	s	an
+伞	sǎn	s	an
+散	sàn	s	an
+桑	sāng	s	ang
+嗓	sǎng	s	ang
+丧	sàng	s	ang
+扫	sǎo	s	ao
+嫂	sǎo	s	ao
+色	sè	s	e
+森	sēn	s	en
+僧	sēng	s	eng
+杀	shā	sh	a
+沙	shā	sh	a
+纱	shā	sh	a
+刹	shā	sh	a
+砂	shā	sh	a
+傻	shǎ	sh	a
+啥	shá	sh	a
+晒	shài	sh	ai
+山	shān	sh	an
+杉	shān	sh	an
+衫	shān	sh	an
+珊	shān	sh	an
+闪	shǎn	sh	an
+陕	shǎn	sh	an
+扇	shàn	sh	an
+善	shàn	sh	an
+伤	shāng	sh	ang
+商	shāng	sh	ang
+赏	shǎng	sh	ang
+上	shàng	sh	ang
+尚	shàng	sh	ang
+梢	shāo	sh	ao
+烧	shāo	sh	ao
+稍	shāo	sh	ao
+少	shǎo	sh	ao
+绍	shào	sh	ao
+哨	shào	sh	ao
+舌	shé	sh	e
+蛇	shé	sh	e
+舍	shě	sh	e
+设	shè	sh	e
+社	shè	sh	e
+射	shè	sh	e
+涉	shè	sh	e
+摄	shè	sh	e
+申	shēn	sh	en
+伸	shēn	sh	en
+身	shēn	sh	en
+深	shēn	sh	en
+神	shén	sh	en
+审	shěn	sh	en
+婶	shěn	sh	en
+肾	shèn	sh	en
+甚	shèn	sh	en
+渗	shèn	sh	en
+慎	shèn	sh	en
+升	shēng	sh	eng
+生	shēng	sh	eng
+声	shēng	sh	eng
+牲	shēng	sh	eng
+胜	shèng	sh	eng
+绳	shéng	sh	eng
+省	shěng	sh	eng
+圣	shèng	sh	eng
+盛	shèng	sh	eng
+剩	shèng	sh	eng
+尸	shī	sh	i
+失	shī	sh	i
+师	shī	sh	i
+诗	shī	sh	i
+施	shī	sh	i
+狮	shī	sh	i
+湿	shī	sh	i
+十	shí	sh	i
+什	shén	sh	en
+石	shí	sh	i
+时	shí	sh	i
+识	shí	sh	i
+实	shí	sh	i
+拾	shí	sh	i
+蚀	shí	sh	i
+食	shí	sh	i
+史	shǐ	sh	i
+使	shǐ	sh	i
+始	shǐ	sh	i
+驶	shǐ	sh	i
+士	shì	sh	i
+氏	shì	sh	i
+世	shì	sh	i
+市	shì	sh	i
+示	shì	sh	i
+式	shì	sh	i
+事	shì	sh	i
+侍	shì	sh	i
+势	shì	sh	i
+视	shì	sh	i
+试	shì	sh	i
+饰	shì	sh	i
+室	shì	sh	i
+是	shì	sh	i
+适	shì	sh	i
+逝	shì	sh	i
+释	shì	sh	i
+收	shōu	sh	ou
+手	shǒu	sh	ou
+守	shǒu	sh	ou
+首	shǒu	sh	ou
+寿	shòu	sh	ou
+受	shòu	sh	ou
+兽	shòu	sh	ou
+售	shòu	sh	ou
+授	shòu	sh	ou
+瘦	shòu	sh	ou
+书	shū	sh	u
+抒	shū	sh	u
+叔	shū	sh	u
+枢	shū	sh	u
+殊	shū	sh	u
+疏	shū	sh	u
+舒	shū	sh	u
+输	shū	sh	u
+蔬	shū	sh	u
+熟	shú	sh	u
+暑	shǔ	sh	u
+署	shǔ	sh	u
+属	shǔ	sh	u
+鼠	shǔ	sh	u
+薯	shǔ	sh	u
+术	shù	sh	u
+束	shù	sh	u
+述	shù	sh	u
+树	shù	sh	u
+竖	shù	sh	u
+数	shù	sh	u
+刷	shuā	sh	ua
+耍	shuǎ	sh	ua
+衰	shuāi	sh	uai
+摔	shuāi	sh	uai
+甩	shuǎi	sh	uai
+帅	shuài	sh	uai
+双	shuāng	sh	uang
+霜	shuāng	sh	uang
+爽	shuǎng	sh	uang
+谁	shuí	sh	uei
+水	shuǐ	sh	uei
+税	shuì	sh	uei
+睡	shuì	sh	uei
+顺	shùn	sh	uen
+瞬	shùn	sh	uen
+说	shuō	sh	uo
+丝	sī	s	i
+司	sī	s	i
+私	sī	s	i
+思	sī	s	i
+斯	sī	s	i
+撕	sī	s	i
+死	sǐ	s	i
+四	sì	s	i
+寺	sì	s	i
+似	shì	sh	i
+饲	sì	s	i
+松	sōng	s	ong
+耸	sǒng	s	ong
+宋	sòng	s	ong
+送	sòng	s	ong
+颂	sòng	s	ong
+搜	sōu	s	ou
+艘	sōu	s	ou
+苏	sū	s	u
+俗	sú	s	u
+诉	sù	s	u
+肃	sù	s	u
+素	sù	s	u
+速	sù	s	u
+宿	sù	s	u
+塑	sù	s	u
+酸	suān	s	uan
+蒜	suàn	s	uan
+算	suàn	s	uan
+虽	suī	s	uei
+随	suí	s	uei
+髓	suǐ	s	uei
+岁	suì	s	uei
+遂	suì	s	uei
+碎	suì	s	uei
+穗	suì	s	uei
+孙	sūn	s	uen
+损	sǔn	s	uen
+笋	sǔn	s	uen
+缩	suō	s	uo
+所	suǒ	s	uo
+索	suǒ	s	uo
+锁	suǒ	s	uo
+他	tā	t	a
+它	tā	t	a
+她	tā	t	a
+塌	tā	t	a
+塔	tǎ	t	a
+踏	tà	t	a
+胎	tāi	t	ai
+台	tái	t	ai
+抬	tái	t	ai
+太	tài	t	ai
+态	tài	t	ai
+泰	tài	t	ai
+贪	tān	t	an
+摊	tān	t	an
+滩	tān	t	an
+坛	tán	t	an
+谈	tán	t	an
+潭	tán	t	an
+坦	tǎn	t	an
+叹	tàn	t	an
+炭	tàn	t	an
+探	tàn	t	an
+碳	tàn	t	an
+汤	tāng	t	ang
+唐	táng	t	ang
+堂	táng	t	ang
+塘	táng	t	ang
+糖	táng	t	ang
+躺	tǎng	t	ang
+趟	tàng	t	ang
+涛	tāo	t	ao
+掏	tāo	t	ao
+逃	táo	t	ao
+桃	táo	t	ao
+陶	táo	t	ao
+淘	táo	t	ao
+萄	táo	t	ao
+讨	tǎo	t	ao
+套	tào	t	ao
+特	tè	t	e
+疼	téng	t	eng
+腾	téng	t	eng
+藤	téng	t	eng
+梯	tī	t	i
+踢	tī	t	i
+啼	tí	t	i
+提	tí	t	i
+题	tí	t	i
+蹄	tí	t	i
+体	tǐ	t	i
+替	tì	t	i
+天	tiān	t	ian
+添	tiān	t	ian
+田	tián	t	ian
+甜	tián	t	ian
+填	tián	t	ian
+挑	tiāo	t	iao
+条	tiáo	t	iao
+跳	tiào	t	iao
+贴	tiē	t	ie
+铁	tiě	t	ie
+厅	tīng	t	ing
+听	tīng	t	ing
+廷	tíng	t	ing
+亭	tíng	t	ing
+庭	tíng	t	ing
+停	tíng	t	ing
+蜓	tíng	t	ing
+挺	tǐng	t	ing
+艇	tǐng	t	ing
+通	tōng	t	ong
+同	tóng	t	ong
+桐	tóng	t	ong
+铜	tóng	t	ong
+童	tóng	t	ong
+统	tǒng	t	ong
+桶	tǒng	t	ong
+筒	tǒng	t	ong
+痛	tòng	t	ong
+偷	tōu	t	ou
+头	tóu	t	ou
+投	tóu	t	ou
+透	tòu	t	ou
+突	tū	t	u
+图	tú	t	u
+徒	tú	t	u
+涂	tú	t	u
+途	tú	t	u
+屠	tú	t	u
+土	tǔ	t	u
+吐	tǔ	t	u
+兔	tù	t	u
+团	tuán	t	uan
+推	tuī	t	uei
+腿	tuǐ	t	uei
+退	tuì	t	uei
+吞	tūn	t	uen
+托	tuō	t	uo
+拖	tuō	t	uo
+脱	tuō	t	uo
+驼	tuó	t	uo
+妥	tuǒ	t	uo
+拓	tuò	t	uo
+唾	tuò	t	uo
+挖	wā		ua
+哇	wa		ua
+蛙	wā		ua
+娃	wá		ua
+瓦	wǎ		ua
+歪	wāi		uai
+外	wài		uai
+弯	wān		uan
+湾	wān		uan
+丸	wán		uan
+完	wán		uan
+玩	wán		uan
+顽	wán		uan
+挽	wǎn		uan
+晚	wǎn		uan
+碗	wǎn		uan
+万	wàn		uan
+汪	wāng		uang
+亡	wáng		uang
+王	wáng		uang
+网	wǎng		uang
+往	wǎng		uang
+忘	wàng		uang
+旺	wàng		uang
+望	wàng		uang
+危	wēi		uei
+威	wēi		uei
+微	wēi		uei
+为	wèi		uei
+围	wéi		uei
+违	wéi		uei
+唯	wéi		uei
+惟	wéi		uei
+维	wéi		uei
+伟	wěi		uei
+伪	wěi		uei
+尾	wěi		uei
+纬	wěi		uei
+委	wěi		uei
+萎	wēi		uei
+卫	wèi		uei
+未	wèi		uei
+位	wèi		uei
+味	wèi		uei
+胃	wèi		uei
+谓	wèi		uei
+喂	wèi		uei
+慰	wèi		uei
+魏	wèi		uei
+温	wēn		uen
+文	wén		uen
+纹	wén		uen
+闻	wén		uen
+蚊	wén		uen
+吻	wěn		uen
+稳	wěn		uen
+问	wèn		uen
+翁	wēng		ueng
+窝	wō		uo
+我	wǒ		uo
+沃	wò		uo
+卧	wò		uo
+握	wò		uo
+乌	wū		u
+污	wū		u
+屋	wū		u
+无	wú		u
+吴	wú		u
+吾	wú		u
+五	wǔ		u
+午	wǔ		u
+伍	wǔ		u
+武	wǔ		u
+舞	wǔ		u
+务	wù		u
+物	wù		u
+误	wù		u
+悟	wù		u
+雾	wù		u
+夕	xī	x	i
+西	xī	x	i
+吸	xī	x	i
+希	xī	x	i
+析	xī	x	i
+息	xī	x	i
+牺	xī	x	i
+悉	xī	x	i
+惜	xī	x	i
+晰	xī	x	i
+稀	xī	x	i
+溪	xī	x	i
+锡	xī	x	i
+熙	xī	x	i
+嘻	xī	x	i
+膝	xī	x	i
+习	xí	x	i
+席	xí	x	i
+袭	xí	x	i
+媳	xí	x	i
+洗	xǐ	x	i
+喜	xǐ	x	i
+戏	xì	x	i
+系	xì	x	i
+细	xì	x	i
+隙	xì	x	i
+虾	xiā	x	ia
+瞎	xiā	x	ia
+峡	xiá	x	ia
+狭	xiá	x	ia
+辖	xiá	x	ia
+霞	xiá	x	ia
+下	xià	x	ia
+吓	xià	x	ia
+夏	xià	x	ia
+厦	shà	sh	a
+仙	xiān	x	ian
+先	xiān	x	ian
+纤	xiān	x	ian
+掀	xiān	x	ian
+鲜	xiān	x	ian
+闲	xián	x	ian
+弦	xián	x	ian
+贤	xián	x	ian
+咸	xián	x	ian
+衔	xián	x	ian
+嫌	xián	x	ian
+显	xiǎn	x	ian
+险	xiǎn	x	ian
+县	xiàn	x	ian
+现	xiàn	x	ian
+线	xiàn	x	ian
+限	xiàn	x	ian
+宪	xiàn	x	ian
+陷	xiàn	x	ian
+献	xiàn	x	ian
+腺	xiàn	x	ian
+乡	xiāng	x	iang
+相	xiāng	x	iang
+香	xiāng	x	iang
+厢	xiāng	x	iang
+湘	xiāng	x	iang
+箱	xiāng	x	iang
+详	xiáng	x	iang
+祥	xiáng	x	iang
+翔	xiáng	x	iang
+享	xiǎng	x	iang
+响	xiǎng	x	iang
+想	xiǎng	x	iang
+向	xiàng	x	iang
+巷	xiàng	x	iang
+项	xiàng	x	iang
+象	xiàng	x	iang
+像	xiàng	x	iang
+橡	xiàng	x	iang
+削	xuē	x	ve
+消	xiāo	x	iao
+萧	xiāo	x	iao
+硝	xiāo	x	iao
+销	xiāo	x	iao
+小	xiǎo	x	iao
+晓	xiǎo	x	iao
+孝	xiào	x	iao
+效	xiào	x	iao
+校	xiào	x	iao
+笑	xiào	x	iao
+些	xiē	x	ie
+歇	xiē	x	ie
+协	xié	x	ie
+胁	xié	x	ie
+斜	xié	x	ie
+谐	xié	x	ie
+携	xié	x	ie
+鞋	xié	x	ie
+写	xiě	x	ie
+泄	xiè	x	ie
+泻	xiè	x	ie
+卸	xiè	x	ie
+屑	xiè	x	ie
+械	xiè	x	ie
+谢	xiè	x	ie
+蟹	xiè	x	ie
+心	xīn	x	in
+辛	xīn	x	in
+欣	xīn	x	in
+新	xīn	x	in
+信	xìn	x	in
+兴	xīng	x	ing
+星	xīng	x	ing
+猩	xīng	x	ing
+刑	xíng	x	ing
+行	xíng	x	ing
+形	xíng	x	ing
+型	xíng	x	ing
+醒	xǐng	x	ing
+杏	xìng	x	ing
+姓	xìng	x	ing
+幸	xìng	x	ing
+性	xìng	x	ing
+凶	xiōng	x	iong
+兄	xiōng	x	iong
+匈	xiōng	x	iong
+胸	xiōng	x	iong
+雄	xióng	x	iong
+熊	xióng	x	iong
+休	xiū	x	iou
+修	xiū	x	iou
+羞	xiū	x	iou
+朽	xiǔ	x	iou
+秀	xiù	x	iou
+绣	xiù	x	iou
+袖	xiù	x	iou
+嗅	xiù	x	iou
+须	xū	x	v
+虚	xū	x	v
+需	xū	x	v
+徐	xú	x	v
+许	xǔ	x	v
+序	xù	x	v
+叙	xù	x	v
+畜	chù	ch	u
+绪	xù	x	v
+续	xù	x	v
+蓄	xù	x	v
+宣	xuān	x	van
+玄	xuán	x	van
+悬	xuán	x	van
+旋	xuán	x	van
+选	xuǎn	x	van
+穴	xué	x	ve
+学	xué	x	ve
+雪	xuě	x	ve
+血	xuè	x	ve
+寻	xún	x	vn
+巡	xún	x	vn
+询	xún	x	vn
+循	xún	x	vn
+训	xùn	x	vn
+讯	xùn	x	vn
+迅	xùn	x	vn
+压	yā		ia
+呀	ya		ia
+鸦	yā		ia
+鸭	yā		ia
+牙	yá		ia
+芽	yá		ia
+崖	yá		ia
+哑	yǎ		ia
+雅	yǎ		ia
+亚	yà		ia
+咽	yàn		ian
+烟	yān		ian
+淹	yān		ian
+延	yán		ian
+严	yán		ian
+言	yán		ian
+岩	yán		ian
+沿	yán		ian
+炎	yán		ian
+研	yán		ian
+盐	yán		ian
+颜	yán		ian
+衍	yǎn		ian
+掩	yǎn		ian
+眼	yǎn		ian
+演	yǎn		ian
+厌	yàn		ian
+宴	yàn		ian
+艳	yàn		ian
+验	yàn		ian
+焰	yàn		ian
+雁	yàn		ian
+燕	yàn		ian
+央	yāng		iang
+扬	yáng		iang
+羊	yáng		iang
+阳	yáng		iang
+杨	yáng		iang
+洋	yáng		iang
+仰	yǎng		iang
+养	yǎng		iang
+氧	yǎng		iang
+痒	yǎng		iang
+样	yàng		iang
+腰	yāo		iao
+邀	yāo		iao
+摇	yáo		iao
+遥	yáo		iao
+咬	yǎo		iao
+药	yào		iao
+要	yào		iao
+耀	yào		iao
+爷	yé		ie
+也	yě		ie
+冶	yě		ie
+野	yě		ie
+业	yè		ie
+叶	yè		ie
+页	yè		ie
+夜	yè		ie
+液	yè		ie
+一	yī		i
+伊	yī		i
+衣	yī		i
+医	yī		i
+依	yī		i
+仪	yí		i
+夷	yí		i
+宜	yí		i
+姨	yí		i
+移	yí		i
+遗	yí		i
+疑	yí		i
+乙	yǐ		i
+已	yǐ		i
+以	yǐ		i
+矣	yǐ		i
+蚁	yǐ		i
+椅	yǐ		i
+义	yì		i
+亿	yì		i
+忆	yì		i
+艺	yì		i
+议	yì		i
+亦	yì		i
+异	yì		i
+役	yì		i
+抑	yì		i
+译	yì		i
+易	yì		i
+疫	yì		i
+益	yì		i
+谊	yì		i
+逸	yì		i
+意	yì		i
+溢	yì		i
+毅	yì		i
+翼	yì		i
+因	yīn		in
+阴	yīn		in
+音	yīn		in
+吟	yín		in
+银	yín		in
+引	yǐn		in
+饮	yǐn		in
+蚓	yǐn		in
+隐	yǐn		in
+印	yìn		in
+应	yīng		ing
+英	yīng		ing
+婴	yīng		ing
+鹰	yīng		ing
+迎	yíng		ing
+盈	yíng		ing
+营	yíng		ing
+蝇	yíng		ing
+赢	yíng		ing
+影	yǐng		ing
+映	yìng		ing
+硬	yìng		ing
+哟	yō		o
+拥	yōng		iong
+永	yǒng		iong
+泳	yǒng		iong
+勇	yǒng		iong
+涌	yǒng		iong
+用	yòng		iong
+优	yōu		iou
+忧	yōu		iou
+幽	yōu		iou
+悠	yōu		iou
+尤	yóu		iou
+犹	yóu		iou
+由	yóu		iou
+邮	yóu		iou
+油	yóu		iou
+游	yóu		iou
+友	yǒu		iou
+有	yǒu		iou
+又	yòu		iou
+右	yòu		iou
+幼	yòu		iou
+诱	yòu		iou
+于	yú		v
+予	yǔ		v
+余	yú		v
+鱼	yú		v
+娱	yú		v
+渔	yú		v
+愉	yú		v
+愚	yú		v
+与	yǔ		v
+宇	yǔ		v
+羽	yǔ		v
+雨	yǔ		v
+语	yǔ		v
+玉	yù		v
+吁	xū	x	v
+育	yù		v
+郁	yù		v
+狱	yù		v
+浴	yù		v
+预	yù		v
+域	yù		v
+欲	yù		v
+喻	yù		v
+寓	yù		v
+御	yù		v
+裕	yù		v
+遇	yù		v
+愈	yù		v
+誉	yù		v
+豫	yù		v
+元	yuán		van
+员	yuán		van
+园	yuán		van
+原	yuán		van
+圆	yuán		van
+袁	yuán		van
+援	yuán		van
+缘	yuán		van
+源	yuán		van
+远	yuǎn		van
+怨	yuàn		van
+院	yuàn		van
+愿	yuàn		van
+曰	yuē		ve
+约	yuē		ve
+月	yuè		ve
+岳	yuè		ve
+钥	yào		iao
+悦	yuè		ve
+阅	yuè		ve
+跃	yuè		ve
+越	yuè		ve
+云	yún		vn
+匀	yún		vn
+允	yǔn		vn
+孕	yùn		vn
+运	yùn		vn
+晕	yūn		vn
+韵	yùn		vn
+蕴	yùn		vn
+杂	zá	z	a
+砸	zá	z	a
+灾	zāi	z	ai
+栽	zāi	z	ai
+宰	zǎi	z	ai
+载	zài	z	ai
+再	zài	z	ai
+在	zài	z	ai
+咱	zán	z	an
+暂	zàn	z	an
+赞	zàn	z	an
+脏	zàng	z	ang
+葬	zàng	z	ang
+遭	zāo	z	ao
+糟	zāo	z	ao
+早	zǎo	z	ao
+枣	zǎo	z	ao
+藻	zǎo	z	ao
+灶	zào	z	ao
+皂	zào	z	ao
+造	zào	z	ao
+噪	zào	z	ao
+燥	zào	z	ao
+躁	zào	z	ao
+则	zé	z	e
+择	zé	z	e
+泽	zé	z	e
+责	zé	z	e
+贼	zéi	z	ei
+怎	zěn	z	en
+曾	céng	c	eng
+增	zēng	z	eng
+赠	zèng	z	eng
+渣	zhā	zh	a
+扎	zhā	zh	a
+眨	zhǎ	zh	a
+炸	zhà	zh	a
+摘	zhāi	zh	ai
+宅	zhái	zh	ai
+窄	zhǎi	zh	ai
+债	zhài	zh	ai
+沾	zhān	zh	an
+粘	zhān	zh	an
+展	zhǎn	zh	an
+占	zhàn	zh	an
+战	zhàn	zh	an
+站	zhàn	zh	an
+张	zhāng	zh	ang
+章	zhāng	zh	ang
+涨	zhǎng	zh	ang
+掌	zhǎng	zh	ang
+丈	zhàng	zh	ang
+仗	zhàng	zh	ang
+帐	zhàng	zh	ang
+胀	zhàng	zh	ang
+账	zhàng	zh	ang
+障	zhàng	zh	ang
+招	zhāo	zh	ao
+找	zhǎo	zh	ao
+召	zhào	zh	ao
+兆	zhào	zh	ao
+赵	zhào	zh	ao
+照	zhào	zh	ao
+罩	zhào	zh	ao
+遮	zhē	zh	e
+折	zhé	zh	e
+哲	zhé	zh	e
+者	zhě	zh	e
+这	zhè	zh	e
+浙	zhè	zh	e
+针	zhēn	zh	en
+侦	zhēn	zh	en
+珍	zhēn	zh	en
+真	zhēn	zh	en
+诊	zhěn	zh	en
+枕	zhěn	zh	en
+阵	zhèn	zh	en
+振	zhèn	zh	en
+镇	zhèn	zh	en
+震	zhèn	zh	en
+争	zhēng	zh	eng
+征	zhēng	zh	eng
+挣	zhēng	zh	eng
+睁	zhēng	zh	eng
+蒸	zhēng	zh	eng
+整	zhěng	zh	eng
+正	zhèng	zh	eng
+证	zhèng	zh	eng
+郑	zhèng	zh	eng
+政	zhèng	zh	eng
+症	zhèng	zh	eng
+之	zhī	zh	i
+支	zhī	zh	i
+汁	zhī	zh	i
+芝	zhī	zh	i
+枝	zhī	zh	i
+知	zhī	zh	i
+织	zhī	zh	i
+肢	zhī	zh	i
+脂	zhī	zh	i
+蜘	zhī	zh	i
+执	zhí	zh	i
+直	zhí	zh	i
+值	zhí	zh	i
+职	zhí	zh	i
+植	zhí	zh	i
+殖	zhí	zh	i
+止	zhǐ	zh	i
+只	zhǐ	zh	i
+旨	zhǐ	zh	i
+址	zhǐ	zh	i
+纸	zhǐ	zh	i
+指	zhǐ	zh	i
+趾	zhǐ	zh	i
+至	zhì	zh	i
+志	zhì	zh	i
+制	zhì	zh	i
+治	zhì	zh	i
+质	zhì	zh	i
+致	zhì	zh	i
+智	zhì	zh	i
+置	zhì	zh	i
+中	zhōng	zh	ong
+忠	zhōng	zh	ong
+终	zhōng	zh	ong
+钟	zhōng	zh	ong
+肿	zhǒng	zh	ong
+种	zhǒng	zh	ong
+仲	zhòng	zh	ong
+众	zhòng	zh	ong
+重	zhòng	zh	ong
+州	zhōu	zh	ou
+舟	zhōu	zh	ou
+周	zhōu	zh	ou
+洲	zhōu	zh	ou
+轴	zhóu	zh	ou
+宙	zhòu	zh	ou
+皱	zhòu	zh	ou
+骤	zhòu	zh	ou
+朱	zhū	zh	u
+株	zhū	zh	u
+珠	zhū	zh	u
+诸	zhū	zh	u
+猪	zhū	zh	u
+蛛	zhū	zh	u
+竹	zhú	zh	u
+烛	zhú	zh	u
+逐	zhú	zh	u
+主	zhǔ	zh	u
+煮	zhǔ	zh	u
+嘱	zhǔ	zh	u
+住	zhù	zh	u
+助	zhù	zh	u
+注	zhù	zh	u
+贮	zhù	zh	u
+驻	zhù	zh	u
+柱	zhù	zh	u
+祝	zhù	zh	u
+著	zhù	zh	u
+筑	zhù	zh	u
+抓	zhuā	zh	ua
+爪	zhǎo	zh	ao
+专	zhuān	zh	uan
+砖	zhuān	zh	uan
+转	zhuǎn	zh	uan
+赚	zhuàn	zh	uan
+庄	zhuāng	zh	uang
+桩	zhuāng	zh	uang
+装	zhuāng	zh	uang
+壮	zhuàng	zh	uang
+状	zhuàng	zh	uang
+撞	zhuàng	zh	uang
+追	zhuī	zh	uei
+准	zhǔn	zh	uen
+捉	zhuō	zh	uo
+桌	zhuō	zh	uo
+着	zhe	zh	e
+仔	zǎi	z	ai
+兹	zī	z	i
+姿	zī	z	i
+资	zī	z	i
+滋	zī	z	i
+籽	zǐ	z	i
+子	zi	z	i
+紫	zǐ	z	i
+字	zì	z	i
+自	zì	z	i
+宗	zōng	z	ong
+综	zōng	z	ong
+棕	zōng	z	ong
+踪	zōng	z	ong
+总	zǒng	z	ong
+纵	zòng	z	ong
+走	zǒu	z	ou
+奏	zòu	z	ou
+租	zū	z	u
+足	zú	z	u
+族	zú	z	u
+阻	zǔ	z	u
+组	zǔ	z	u
+祖	zǔ	z	u
+钻	zuān	z	uan
+嘴	zuǐ	z	uei
+最	zuì	z	uei
+罪	zuì	z	uei
+醉	zuì	z	uei
+尊	zūn	z	uen
+遵	zūn	z	uen
+昨	zuó	z	uo
+左	zuǒ	z	uo
+作	zuò	z	uo
+坐	zuò	z	uo
+座	zuò	z	uo
+做	zuò	z	uo
+蔼	ǎi		ai
+隘	ài		ai
+庵	ān		an
+鞍	ān		an
+黯	àn		an
+肮	āng		ang
+拗	ǎo		ao
+袄	ǎo		ao
+懊	ào		ao
+扒	bā	b	a
+芭	bā	b	a
+疤	bā	b	a
+捌	bā	b	a
+跋	bá	b	a
+靶	bǎ	b	a
+掰	bāi	b	ai
+扳	bān	b	an
+拌	bàn	b	an
+绊	bàn	b	an
+梆	bāng	b	ang
+绑	bǎng	b	ang
+榜	bǎng	b	ang
+蚌	bàng	b	ang
+谤	bàng	b	ang
+磅	bàng	b	ang
+镑	bàng	b	ang
+苞	bāo	b	ao
+褒	bāo	b	ao
+雹	báo	b	ao
+鲍	bào	b	ao
+狈	bèi	b	ei
+悖	bèi	b	ei
+惫	bèi	b	ei
+笨	bèn	b	en
+绷	bēng	b	eng
+泵	bèng	b	eng
+蹦	bèng	b	eng
+匕	bǐ	b	i
+鄙	bǐ	b	i
+庇	bì	b	i
+毙	bì	b	i
+痹	bì	b	i
+弊	bì	b	i
+璧	bì	b	i
+贬	biǎn	b	ian
+匾	biǎn	b	ian
+辫	biàn	b	ian
+彪	biāo	b	iao
+憋	biē	b	ie
+鳖	biē	b	ie
+瘪	biě	b	ie
+彬	bīn	b	in
+斌	bīn	b	in
+缤	bīn	b	in
+濒	bīn	b	in
+鬓	bìn	b	in
+秉	bǐng	b	ing
+禀	bǐng	b	ing
+菠	bō	b	o
+舶	bó	b	o
+渤	bó	b	o
+跛	bǒ	b	o
+簸	bǒ	b	o
+哺	bǔ	b	u
+怖	bù	b	u
+埠	bù	b	u
+簿	bù	b	u
+睬	cǎi	c	ai
+惭	cán	c	an
+沧	cāng	c	ang
+糙	cāo	c	ao
+厕	cè	c	e
+蹭	cèng	c	eng
+茬	chá	ch	a
+岔	chà	ch	a
+豺	chái	ch	ai
+掺	càn	c	an
+搀	chān	ch	an
+禅	chán	ch	an
+馋	chán	ch	an
+蝉	chán	ch	an
+铲	chǎn	ch	an
+猖	chāng	ch	ang
+敞	chǎng	ch	ang
+钞	chāo	ch	ao
+嘲	cháo	ch	ao
+澈	chè	ch	e
+忱	chén	ch	en
+辰	chén	ch	en
+铛	dāng	d	ang
+澄	chéng	ch	eng
+逞	chěng	ch	eng
+秤	chèng	ch	eng
+痴	chī	ch	i
+弛	chí	ch	i
+侈	chǐ	ch	i
+耻	chǐ	ch	i
+宠	chǒng	ch	ong
+畴	chóu	ch	ou
+稠	chóu	ch	ou
+锄	chú	ch	u
+雏	chú	ch	u
+橱	chú	ch	u
+矗	chù	ch	u
+揣	chuāi	ch	uai
+囱	cōng	c	ong
+疮	chuāng	ch	uang
+炊	chuī	ch	uei
+捶	chuí	ch	uei
+椿	chūn	ch	uen
+淳	chún	ch	uen
+蠢	chǔn	ch	uen
+戳	chuō	ch	uo
+绰	chuò	ch	uo
+祠	cí	c	i
+赐	cì	c	i
+醋	cù	c	u
+簇	cù	c	u
+窜	cuàn	c	uan
+篡	cuàn	c	uan
+崔	cuī	c	uei
+摧	cuī	c	uei
+悴	cuì	c	uei
+粹	cuì	c	uei
+搓	cuō	c	uo
+撮	cuō	c	uo
+挫	cuò	c	uo
+瘩	dā	d	a
+歹	dǎi	d	ai
+怠	dài	d	ai
+贷	dài	d	ai
+耽	dān	d	an
+档	dàng	d	ang
+叨	dāo	d	ao
+捣	dǎo	d	ao
+祷	dǎo	d	ao
+悼	dào	d	ao
+蹬	dēng	d	eng
+嘀	dí	d	i
+涤	dí	d	i
+缔	dì	d	i
+蒂	dì	d	i
+掂	diān	d	ian
+滇	diān	d	ian
+巅	diān	d	ian
+碘	diǎn	d	ian
+佃	diàn	d	ian
+甸	diān	d	ian
+玷	diàn	d	ian
+惦	diàn	d	ian
+奠	diàn	d	ian
+刁	diāo	d	iao
+叼	diāo	d	iao
+迭	dié	d	ie
+谍	dié	d	ie
+碟	dié	d	ie
+鼎	dǐng	d	ing
+董	dǒng	d	ong
+栋	dòng	d	ong
+兜	dōu	d	ou
+蚪	dǒu	d	ou
+逗	dòu	d	ou
+痘	dòu	d	ou
+睹	dǔ	d	u
+妒	dù	d	u
+镀	dù	d	u
+缎	duàn	d	uan
+兑	duì	d	uei
+墩	dūn	d	uen
+盹	dǔn	d	uen
+囤	dùn	d	uen
+钝	dùn	d	uen
+咄	duō	d	uo
+哆	duō	d	uo
+踱	duó	d	uo
+垛	duǒ	d	uo
+堕	duò	d	uo
+舵	duò	d	uo
+惰	duò	d	uo
+跺	duò	d	uo
+讹	é		e
+娥	é		e
+峨	é		e
+蛾	é		e
+扼	è		e
+鄂	è		e
+愕	è		e
+遏	è		e
+噩	è		e
+饵	ěr		er
+贰	èr		er
+筏	fá	f	a
+矾	fán	f	an
+妃	fēi	f	ei
+匪	fěi	f	ei
+诽	fěi	f	ei
+吠	fèi	f	ei
+吩	fēn	f	en
+氛	fēn	f	en
+焚	fén	f	en
+忿	fèn	f	en
+讽	fěng	f	eng
+敷	fū	f	u
+芙	fú	f	u
+拂	fú	f	u
+俘	fú	f	u
+袱	fú	f	u
+甫	fǔ	f	u
+斧	fǔ	f	u
+俯	fǔ	f	u
+脯	pú	p	u
+咐	fù	f	u
+缚	fù	f	u
+尬	gà	g	a
+丐	gài	g	ai
+柑	gān	g	an
+竿	gān	g	an
+尴	gān	g	an
+秆	gǎn	g	an
+橄	gǎn	g	an
+赣	gàn	g	an
+冈	gāng	g	ang
+肛	gāng	g	ang
+杠	gāng	g	ang
+羔	gāo	g	ao
+膏	gāo	g	ao
+糕	gāo	g	ao
+镐	gǎo	g	ao
+疙	gē	g	e
+搁	gē	g	e
+蛤	há	h	a
+庚	gēng	g	eng
+羹	gēng	g	eng
+埂	gěng	g	eng
+耿	gěng	g	eng
+梗	gěng	g	eng
+蚣	gōng	g	ong
+躬	gōng	g	ong
+汞	gǒng	g	ong
+苟	gǒu	g	ou
+垢	gòu	g	ou
+沽	gū	g	u
+辜	gū	g	u
+雇	gù	g	u
+寡	guǎ	g	ua
+卦	guà	g	ua
+褂	guà	g	ua
+乖	guāi	g	uai
+棺	guān	g	uan
+逛	guàng	g	uang
+闺	guī	g	uei
+瑰	guī	g	uei
+诡	guǐ	g	uei
+癸	guǐ	g	uei
+跪	guì	g	uei
+亥	hài	h	ai
+骇	hài	h	ai
+酣	hān	h	an
+憨	hān	h	an
+涵	hán	h	an
+悍	hàn	h	an
+捍	hàn	h	an
+焊	hàn	h	an
+憾	hàn	h	an
+撼	hàn	h	an
+翰	hàn	h	an
+夯	hāng	h	ang
+嚎	háo	h	ao
+皓	hào	h	ao
+禾	hé	h	e
+烘	hōng	h	ong
+弘	hóng	h	ong
+弧	hú	h	u
+唬	hǔ	h	u
+沪	hù	h	u
+猾	huá	h	ua
+徊	huái	h	uai
+槐	huái	h	uai
+宦	huàn	h	uan
+涣	huàn	h	uan
+焕	huàn	h	uan
+痪	huàn	h	uan
+凰	huáng	h	uang
+惶	huáng	h	uang
+蝗	huáng	h	uang
+簧	huáng	h	uang
+恍	huǎng	h	uang
+谎	huǎng	h	uang
+幌	huǎng	h	uang
+卉	huì	h	uei
+讳	huì	h	uei
+诲	huì	h	uei
+贿	huì	h	uei
+晦	huì	h	uei
+秽	huì	h	uei
+荤	hūn	h	uen
+豁	huō	h	uo
+讥	jī	j	i
+叽	jī	j	i
+唧	jī	j	i
+缉	jī	j	i
+畸	jī	j	i
+箕	jī	j	i
+稽	jī	j	i
+棘	jí	j	i
+嫉	jí	j	i
+妓	jì	j	i
+祭	jì	j	i
+鲫	jì	j	i
+冀	jì	j	i
+颊	jiá	j	ia
+奸	jiān	j	ian
+歼	jiān	j	ian
+煎	jiān	j	ian
+拣	jiǎn	j	ian
+俭	jiǎn	j	ian
+柬	jiǎn	j	ian
+茧	jiǎn	j	ian
+捡	jiǎn	j	ian
+荐	jiàn	j	ian
+贱	jiàn	j	ian
+涧	jiàn	j	ian
+溅	jiàn	j	ian
+槛	kǎn	k	an
+缰	jiāng	j	iang
+桨	jiǎng	j	iang
+酱	jiàng	j	iang
+椒	jiāo	j	iao
+跤	jiāo	j	iao
+蕉	jiāo	j	iao
+侥	jiǎo	j	iao
+狡	jiǎo	j	iao
+绞	jiǎo	j	iao
+饺	jiǎo	j	iao
+矫	jiǎo	j	iao
+剿	jiǎo	j	iao
+缴	jiǎo	j	iao
+窖	jiào	j	iao
+酵	jiào	j	iao
+秸	jiē	j	ie
+睫	jié	j	ie
+芥	jiè	j	ie
+诫	jiè	j	ie
+藉	jí	j	i
+襟	jīn	j	in
+谨	jǐn	j	in
+荆	jīng	j	ing
+兢	jīng	j	ing
+靖	jìng	j	ing
+窘	jiǒng	j	iong
+揪	jiū	j	iou
+灸	jiǔ	j	iou
+玖	jiǔ	j	iou
+韭	jiǔ	j	iou
+臼	jiù	j	iou
+疚	jiù	j	iou
+拘	jū	j	v
+驹	jū	j	v
+鞠	jū	j	v
+桔	jú	j	v
+沮	jǔ	j	v
+炬	jù	j	v
+锯	jù	j	v
+娟	juān	j	van
+捐	juān	j	van
+鹃	juān	j	van
+绢	juàn	j	van
+眷	juàn	j	van
+诀	jué	j	ve
+倔	jué	j	ve
+崛	jué	j	ve
+爵	jué	j	ve
+钧	jūn	j	vn
+骏	jùn	j	vn
+竣	jùn	j	vn
+咖	kā	k	a
+揩	kāi	k	ai
+楷	kǎi	k	ai
+勘	kān	k	an
+坎	kǎn	k	an
+慷	kāng	k	ang
+糠	kāng	k	ang
+扛	káng	k	ang
+亢	kàng	k	ang
+拷	kǎo	k	ao
+铐	kào	k	ao
+坷	kě	k	e
+苛	kē	k	e
+磕	kē	k	e
+蝌	kē	k	e
+垦	kěn	k	en
+恳	kěn	k	en
+啃	kěn	k	en
+吭	kēng	k	eng
+抠	kōu	k	ou
+叩	kòu	k	ou
+寇	kòu	k	ou
+窟	kū	k	u
+垮	kuǎ	k	ua
+挎	kuà	k	ua
+筷	kuài	k	uai
+筐	kuāng	k	uang
+旷	kuàng	k	uang
+框	kuāng	k	uang
+眶	kuàng	k	uang
+盔	kuī	k	uei
+窥	kuī	k	uei
+魁	kuí	k	uei
+馈	kuì	k	uei
+坤	kūn	k	uen
+捆	kǔn	k	uen
+廓	kuò	k	uo
+睐	lài	l	ai
+婪	lán	l	an
+澜	lán	l	an
+揽	lǎn	l	an
+缆	lǎn	l	an
+榄	lǎn	l	an
+琅	láng	l	ang
+榔	láng	l	ang
+唠	láo	l	ao
+姥	lǎo	l	ao
+涝	lào	l	ao
+烙	lào	l	ao
+酪	lào	l	ao
+垒	lěi	l	ei
+磊	lěi	l	ei
+肋	lē	l	e
+擂	léi	l	ei
+棱	léng	l	eng
+狸	lí	l	i
+漓	lí	l	i
+篱	lí	l	i
+吏	lì	l	i
+沥	lì	l	i
+俐	lì	l	i
+荔	lì	l	i
+栗	lì	l	i
+砾	lì	l	i
+痢	lì	l	i
+雳	lì	l	i
+镰	lián	l	ian
+敛	liǎn	l	ian
+粱	liáng	l	iang
+谅	liàng	l	iang
+晾	liàng	l	iang
+寥	liáo	l	iao
+嘹	liáo	l	iao
+撩	liāo	l	iao
+缭	liáo	l	iao
+瞭	liǎo	l	iao
+咧	liě	l	ie
+琳	lín	l	in
+鳞	lín	l	in
+凛	lǐn	l	in
+吝	lìn	l	in
+赁	lìn	l	in
+躏	lìn	l	in
+拎	līn	l	in
+伶	líng	l	ing
+聆	líng	l	ing
+菱	líng	l	ing
+浏	liú	l	iou
+琉	liú	l	iou
+馏	liú	l	iou
+榴	liú	l	iou
+咙	lóng	l	ong
+胧	lóng	l	ong
+聋	lóng	l	ong
+窿	lóng	l	ong
+娄	lóu	l	ou
+搂	lǒu	l	ou
+篓	lǒu	l	ou
+陋	lòu	l	ou
+庐	lú	l	u
+颅	lú	l	u
+卤	lǔ	l	u
+虏	lǔ	l	u
+赂	lù	l	u
+禄	lù	l	u
+吕	lǚ	l	v
+侣	lǚ	l	v
+屡	lǚ	l	v
+缕	lǚ	l	v
+峦	luán	l	uan
+抡	lūn	l	uen
+仑	lún	l	uen
+沦	lún	l	uen
+啰	luō	l	uo
+锣	luó	l	uo
+箩	luó	l	uo
+骡	luó	l	uo
+蟆	má	m	a
+馒	mán	m	an
+瞒	mán	m	an
+蔓	màn	m	an
+莽	mǎng	m	ang
+锚	máo	m	ao
+卯	mǎo	m	ao
+昧	mèi	m	ei
+媚	mèi	m	ei
+魅	mèi	m	ei
+氓	máng	m	ang
+朦	méng	m	eng
+檬	méng	m	eng
+锰	měng	m	eng
+咪	mī	m	i
+靡	mí	m	i
+眯	mī	m	i
+觅	mì	m	i
+缅	miǎn	m	ian
+瞄	miáo	m	iao
+渺	miǎo	m	iao
+藐	miǎo	m	iao
+蔑	miè	m	ie
+皿	mǐn	m	in
+闽	mǐn	m	in
+悯	mǐn	m	in
+冥	míng	m	ing
+铭	míng	m	ing
+谬	miù	m	iou
+馍	mó	m	o
+摹	mó	m	o
+茉	mò	m	o
+寞	mò	m	o
+沐	mù	m	u
+募	mù	m	u
+睦	mù	m	u
+暮	mù	m	u
+捺	nà	n	a
+挠	náo	n	ao
+瑙	nǎo	n	ao
+呐	nà	n	a
+馁	něi	n	ei
+妮	nī	n	i
+匿	nì	n	i
+溺	nì	n	i
+腻	nì	n	i
+捻	niǎn	n	ian
+撵	niǎn	n	ian
+碾	niǎn	n	ian
+聂	niè	n	ie
+孽	niè	n	ie
+拧	níng	n	ing
+狞	níng	n	ing
+柠	níng	n	ing
+泞	nìng	n	ing
+钮	niǔ	n	iou
+脓	nóng	n	ong
+疟	nüè	n	ve
+虐	nüè	n	ve
+懦	nuò	n	uo
+糯	nuò	n	uo
+殴	ōu		ou
+鸥	ōu		ou
+呕	ǒu		ou
+藕	ǒu		ou
+趴	pā	p	a
+啪	pā	p	a
+耙	bà	b	a
+徘	pái	p	ai
+湃	pài	p	ai
+潘	pān	p	an
+畔	pàn	p	an
+乓	pāng	p	ang
+螃	páng	p	ang
+刨	páo	p	ao
+袍	páo	p	ao
+沛	pèi	p	ei
+砰	pēng	p	eng
+烹	pēng	p	eng
+彭	péng	p	eng
+澎	pēng	p	eng
+篷	péng	p	eng
+坯	pī	p	i
+劈	pī	p	i
+霹	pī	p	i
+啤	pí	p	i
+僻	pì	p	i
+翩	piān	p	ian
+撇	piē	p	ie
+聘	pìn	p	in
+乒	pīng	p	ing
+坪	píng	p	ing
+魄	pò	p	o
+仆	pū	p	u
+菩	pú	p	u
+圃	pǔ	p	u
+瀑	pù	p	u
+曝	pù	p	u
+柒	qī	q	i
+凄	qī	q	i
+祈	qí	q	i
+脐	qí	q	i
+崎	qí	q	i
+鳍	qí	q	i
+乞	qǐ	q	i
+迄	qì	q	i
+泣	qì	q	i
+掐	qiā	q	ia
+洽	qià	q	ia
+钳	qián	q	ian
+乾	qián	q	ian
+黔	qián	q	ian
+谴	qiǎn	q	ian
+嵌	qiàn	q	ian
+歉	qiàn	q	ian
+呛	qiāng	q	iang
+跷	qiāo	q	iao
+锹	qiāo	q	iao
+侨	qiáo	q	iao
+憔	qiáo	q	iao
+俏	qiào	q	iao
+峭	qiào	q	iao
+窍	qiào	q	iao
+翘	qiào	q	iao
+撬	qiào	q	iao
+怯	qiè	q	ie
+钦	qīn	q	in
+芹	qín	q	in
+擒	qín	q	in
+寝	qǐn	q	in
+沁	qìn	q	in
+卿	qīng	q	ing
+蜻	qīng	q	ing
+擎	qíng	q	ing
+琼	qióng	q	iong
+囚	qiú	q	iou
+岖	qū	q	v
+渠	qú	q	v
+痊	quán	q	van
+瘸	qué	q	ve
+冉	rǎn	r	an
+瓤	ráng	r	ang
+壬	rén	r	en
+刃	rèn	r	en
+纫	rèn	r	en
+韧	rèn	r	en
+戎	róng	r	ong
+茸	rōng	r	ong
+蓉	róng	r	ong
+榕	róng	r	ong
+冗	rǒng	r	ong
+揉	róu	r	ou
+蹂	róu	r	ou
+蠕	rú	r	u
+汝	rǔ	r	u
+褥	rù	r	u
+蕊	ruǐ	r	uei
+闰	rùn	r	uen
+腮	sāi	s	ai
+叁	sān	s	an
+搔	sāo	s	ao
+骚	sāo	s	ao
+臊	sāo	s	ao
+涩	sè	s	e
+瑟	sè	s	e
+鲨	shā	sh	a
+煞	shā	sh	a
+霎	shà	sh	a
+筛	shāi	sh	ai
+删	shān	sh	an
+煽	shān	sh	an
+擅	shàn	sh	an
+赡	shàn	sh	an
+裳	shang	sh	ang
+晌	shǎng	sh	ang
+捎	shāo	sh	ao
+勺	sháo	sh	ao
+奢	shē	sh	e
+赦	shè	sh	e
+呻	shēn	sh	en
+绅	shēn	sh	en
+沈	shěn	sh	en
+笙	shēng	sh	eng
+甥	shēng	sh	eng
+矢	shǐ	sh	i
+屎	shǐ	sh	i
+恃	shì	sh	i
+拭	shì	sh	i
+柿	shì	sh	i
+嗜	shì	sh	i
+誓	shì	sh	i
+梳	shū	sh	u
+淑	shū	sh	u
+赎	shú	sh	u
+蜀	shǔ	sh	u
+曙	shǔ	sh	u
+恕	shù	sh	u
+庶	shù	sh	u
+墅	shù	sh	u
+漱	shù	sh	u
+蟀	shuài	sh	uai
+拴	shuān	sh	uan
+栓	shuān	sh	uan
+涮	shuàn	sh	uan
+吮	shǔn	sh	uen
+烁	shuò	sh	uo
+硕	shuò	sh	uo
+嗽	sòu	s	ou
+嘶	sī	s	i
+巳	sì	s	i
+伺	cì	c	i
+祀	sì	s	i
+肆	sì	s	i
+讼	sòng	s	ong
+诵	sòng	s	ong
+酥	sū	s	u
+粟	sù	s	u
+溯	sù	s	u
+隋	suí	s	uei
+祟	suì	s	uei
+隧	suì	s	uei
+唆	suō	s	uo
+梭	suō	s	uo
+嗦	suo	s	uo
+琐	suǒ	s	uo
+蹋	tà	t	a
+苔	tái	t	ai
+汰	tài	t	ai
+瘫	tān	t	an
+痰	tán	t	an
+谭	tán	t	an
+檀	tán	t	an
+毯	tǎn	t	an
+棠	táng	t	ang
+膛	táng	t	ang
+倘	tǎng	t	ang
+淌	tǎng	t	ang
+烫	tàng	t	ang
+滔	tāo	t	ao
+誊	téng	t	eng
+剔	tī	t	i
+屉	tì	t	i
+剃	tì	t	i
+涕	tì	t	i
+惕	tì	t	i
+恬	tián	t	ian
+舔	tiǎn	t	ian
+迢	tiáo	t	iao
+帖	tiē	t	ie
+彤	tóng	t	ong
+瞳	tóng	t	ong
+捅	tǒng	t	ong
+凸	tū	t	u
+秃	tū	t	u
+颓	tuí	t	uei
+蜕	tuì	t	uei
+褪	tuì	t	uei
+屯	tún	t	uen
+豚	tún	t	uen
+臀	tún	t	uen
+驮	tuó	t	uo
+鸵	tuó	t	uo
+椭	tuǒ	t	uo
+洼	wā		ua
+袜	wà		ua
+豌	wān		uan
+宛	wǎn		uan
+婉	wǎn		uan
+惋	wǎn		uan
+皖	wǎn		uan
+腕	wàn		uan
+枉	wǎng		uang
+妄	wàng		uang
+偎	wēi		uei
+薇	wēi		uei
+巍	wēi		uei
+帷	wéi		uei
+苇	wěi		uei
+畏	wèi		uei
+尉	wèi		uei
+猬	wèi		uei
+蔚	wèi		uei
+瘟	wēn		uen
+紊	wěn		uen
+嗡	wēng		ueng
+涡	wō		uo
+蜗	wō		uo
+呜	wū		u
+巫	wū		u
+诬	wū		u
+芜	wú		u
+梧	wú		u
+蜈	wú		u
+侮	wǔ		u
+捂	wǔ		u
+鹉	wǔ		u
+勿	wù		u
+戊	wù		u
+昔	xī	x	i
+犀	xī	x	i
+熄	xī	x	i
+蟋	xī	x	i
+徙	xǐ	x	i
+匣	xiá	x	ia
+侠	xiá	x	ia
+暇	xiá	x	ia
+馅	xiàn	x	ian
+羡	xiàn	x	ian
+镶	xiāng	x	iang
+宵	xiāo	x	iao
+潇	xiāo	x	iao
+箫	xiāo	x	iao
+霄	xiāo	x	iao
+嚣	xiāo	x	iao
+淆	xiáo	x	iao
+肖	xiào	x	iao
+哮	xiāo	x	iao
+啸	xiào	x	iao
+蝎	xiē	x	ie
+邪	xié	x	ie
+挟	xié	x	ie
+懈	xiè	x	ie
+芯	xīn	x	in
+锌	xīn	x	in
+薪	xīn	x	in
+馨	xīn	x	in
+衅	xìn	x	in
+腥	xīng	x	ing
+汹	xiōng	x	iong
+锈	xiù	x	iou
+戌	xū	x	v
+墟	xū	x	v
+旭	xù	x	v
+恤	xù	x	v
+酗	xù	x	v
+婿	xù	x	v
+絮	xù	x	v
+轩	xuān	x	van
+喧	xuān	x	van
+癣	xuǎn	x	van
+炫	xuàn	x	van
+绚	xuàn	x	van
+渲	xuàn	x	van
+靴	xuē	x	ve
+薛	xuē	x	ve
+勋	xūn	x	vn
+熏	xūn	x	vn
+旬	xún	x	vn
+驯	xùn	x	vn
+汛	xùn	x	vn
+逊	xùn	x	vn
+殉	xùn	x	vn
+丫	yā		ia
+押	yā		ia
+涯	yá		ia
+衙	yá		ia
+讶	yà		ia
+焉	yān		ian
+阎	yán		ian
+蜒	yán		ian
+檐	yán		ian
+砚	yàn		ian
+唁	yàn		ian
+谚	yàn		ian
+堰	yàn		ian
+殃	yāng		iang
+秧	yāng		iang
+鸯	yāng		iang
+漾	yàng		iang
+夭	yāo		iao
+吆	yāo		iao
+妖	yāo		iao
+尧	yáo		iao
+肴	yáo		iao
+姚	yáo		iao
+窑	yáo		iao
+谣	yáo		iao
+舀	yǎo		iao
+椰	yē		ie
+腋	yè		ie
+壹	yī		i
+怡	yí		i
+贻	yí		i
+胰	yí		i
+倚	yǐ		i
+屹	yì		i
+邑	yì		i
+绎	yì		i
+姻	yīn		in
+茵	yīn		in
+荫	yīn		in
+殷	yīn		in
+寅	yín		in
+淫	yín		in
+瘾	yǐn		in
+莺	yīng		ing
+樱	yīng		ing
+鹦	yīng		ing
+荧	yíng		ing
+莹	yíng		ing
+萤	yíng		ing
+颖	yǐng		ing
+佣	yōng		iong
+庸	yōng		iong
+咏	yǒng		iong
+踊	yǒng		iong
+酉	yǒu		iou
+佑	yòu		iou
+迂	yū		v
+淤	yū		v
+渝	yú		v
+隅	yú		v
+逾	yú		v
+榆	yú		v
+舆	yú		v
+屿	yǔ		v
+禹	yǔ		v
+芋	yù		v
+冤	yuān		van
+鸳	yuān		van
+渊	yuān		van
+猿	yuán		van
+苑	yuàn		van
+粤	yuè		ve
+耘	yún		vn
+陨	yǔn		vn
+酝	yùn		vn
+哉	zāi	z	ai
+赃	zāng	z	ang
+凿	záo	z	ao
+蚤	zǎo	z	ao
+澡	zǎo	z	ao
+憎	zēng	z	eng
+咋	zǎ	z	a
+喳	zhā	zh	a
+轧	yà		ia
+闸	zhá	zh	a
+乍	zhà	zh	a
+诈	zhà	zh	a
+栅	zhà	zh	a
+榨	zhà	zh	a
+斋	zhāi	zh	ai
+寨	zhài	zh	ai
+毡	zhān	zh	an
+瞻	zhān	zh	an
+斩	zhǎn	zh	an
+盏	zhǎn	zh	an
+崭	zhǎn	zh	an
+辗	niǎn	n	ian
+栈	zhàn	zh	an
+绽	zhàn	zh	an
+彰	zhāng	zh	ang
+樟	zhāng	zh	ang
+杖	zhàng	zh	ang
+昭	zhāo	zh	ao
+沼	zhǎo	zh	ao
+肇	zhào	zh	ao
+辙	zhé	zh	e
+蔗	zhè	zh	e
+贞	zhēn	zh	en
+斟	zhēn	zh	en
+疹	zhěn	zh	en
+怔	zhēng	zh	eng
+狰	zhēng	zh	eng
+筝	zhēng	zh	eng
+拯	zhěng	zh	eng
+吱	zhī	zh	i
+侄	zhí	zh	i
+帜	zhì	zh	i
+挚	zhì	zh	i
+秩	zhì	zh	i
+掷	zhì	zh	i
+窒	zhì	zh	i
+滞	zhì	zh	i
+稚	zhì	zh	i
+衷	zhōng	zh	ong
+粥	zhōu	zh	ou
+肘	zhǒu	zh	ou
+帚	zhǒu	zh	ou
+咒	zhòu	zh	ou
+昼	zhòu	zh	ou
+拄	zhǔ	zh	u
+瞩	zhǔ	zh	u
+蛀	zhù	zh	u
+铸	zhù	zh	u
+拽	zhuāi	zh	uai
+撰	zhuàn	zh	uan
+妆	zhuāng	zh	uang
+幢	chuáng	ch	uang
+椎	chuí	ch	uei
+锥	zhuī	zh	uei
+坠	zhuì	zh	uei
+缀	zhuì	zh	uei
+赘	zhuì	zh	uei
+谆	zhūn	zh	uen
+卓	zhuó	zh	uo
+拙	zhuō	zh	uo
+灼	zhuó	zh	uo
+茁	zhuó	zh	uo
+浊	zhuó	zh	uo
+酌	zhuó	zh	uo
+啄	zhuó	zh	uo
+琢	zuó	z	uo
+咨	zī	z	i
+姊	zǐ	z	i
+揍	zòu	z	ou
+卒	zú	z	u
+佐	zuǒ	z	uo
+佘	shé	sh	e
+赊	shē	sh	e

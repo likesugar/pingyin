@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">拼音打字训练</string>
+
+    <string name="tab_train">训练</string>
+    <string name="tab_random">随机字</string>
+    <string name="tab_jiujian">九键教学</string>
+    <string name="tab_settings">设置</string>
+
+    <string name="jiujian_title">九键怎么打</string>
+    <string name="jiujian_desc">每个汉字对应 2~6 个数字，按拼音顺序按键即可</string>
+    <string name="jiujian_keyboard_title">键盘对应</string>
+    <string name="jiujian_rule_title">三个要点</string>
+    <string name="jiujian_rule1">① 按拼音顺序按键：你 ni → 64，好 hao → 426</string>
+    <string name="jiujian_rule2">② 一个字打满自动判定，空格和标点不用管</string>
+    <string name="jiujian_rule3">③ 打错直接继续输入正确数字；严格模式下删掉重打</string>
+    <string name="jiujian_game_title">九键游戏</string>
+    <string name="jiujian_game_tip">按数字键拼出上面词的九键编码</string>
+    <string name="jiujian_game_right">答对啦！+1</string>
+    <string name="jiujian_game_wrong">按错了，正确编码：%1$s</string>
+    <string name="jiujian_game_del">删除</string>
+    <string name="jiujian_score_fmt">得分 %1$d</string>
+    <string name="jiujian_game_shrink">缩小</string>
+    <string name="jiujian_game_expand">展开</string>
+    <string name="jiujian_start">去九键练习</string>
+    <string name="random_title">随机字练习</string>
+    <string name="random_desc">从常用字库随机抽字生成练习内容</string>
+    <string name="random_count">字数</string>
+    <string name="random_start">开始随机练习</string>
+    <string name="random_pool_size">字库：%d 字</string>
+    <string name="records_title">成绩记录</string>
+
+    <string name="hint_tap_to_start">点这里输入拼音</string>
+    <string name="action_restart">重新开始</string>
+    <string name="action_skip">跳过本段</string>
+    <string name="action_back">返回首页</string>
+    <string name="action_next">下一段</string>
+    <string name="action_delete">删除</string>
+    <string name="action_speak">朗读本段</string>
+    <string name="speech_unavailable">系统没有中文语音引擎，请先安装中文语音包</string>
+    <string name="action_again">再来一次</string>
+    <string name="action_finish">完成</string>
+
+    <string name="label_time">用时</string>
+    <string name="label_speed">速度</string>
+    <string name="label_accuracy">准确率</string>
+    <string name="label_progress">进度</string>
+    <string name="label_errors">错误</string>
+    <string name="unit_cpm">字/分</string>
+
+    <string name="result_title">本段完成</string>
+    <string name="result_lesson_done">课程完成</string>
+    <string name="empty_records">还没有成绩记录，去练一课吧</string>
+    <string name="stats_best">最佳速度</string>
+    <string name="stats_avg_acc">平均准确率</string>
+    <string name="stats_total_chars">累计输入</string>
+    <string name="stats_sessions">练习次数</string>
+
+    <string name="set_show_pinyin">显示拼音提示</string>
+    <string name="set_show_pinyin_desc">在汉字上方标注带声调拼音</string>
+    <string name="set_code_mode">编码方式</string>
+    <string name="set_code_mode_desc">汉字上方提示按哪种键盘布局编码</string>
+    <string name="set_simple_input">简易输入模式</string>
+    <string name="set_simple_input_desc">直接敲拼音编码即可，不用选字上屏</string>
+    <string name="set_speak_on_tap">点击汉字发音</string>
+    <string name="set_speak_on_tap_desc">点训练文本里的字或词，朗读它的读音</string>
+    <string name="set_system_voice">优先使用系统语音</string>
+    <string name="set_system_voice_desc">系统语音更自然；关闭后走内置发音包，3500 常用字全部可读，完全离线</string>
+    <string name="hint_simple_input">直接输入拼音编码，如 nihao</string>
+    <string name="code_full">全键全拼</string>
+    <string name="code_nine">九键数字</string>
+    <string name="code_hint_full">示例：你好 → nǐ hǎo，全键盘依次敲 n i h a o</string>
+    <string name="code_hint_nine">示例：你好 → 64 426，九宫格依次按 6 4 4 2 6\n键位：2 abc · 3 def · 4 ghi · 5 jkl · 6 mno · 7 pqrs · 8 tuv · 9 wxyz</string>
+    <string name="set_strict">严格模式</string>
+    <string name="set_strict_desc">打错必须修正后才能完成本段</string>
+    <string name="set_font_size">字号</string>
+    <string name="set_theme">主题</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="set_custom">自定义文本练习</string>
+    <string name="set_custom_desc">粘贴一段中文，自动标注拼音后练习</string>
+    <string name="set_custom_hint">请输入要练习的中文内容</string>
+
+    <string name="loading_dict">正在准备拼音数据…</string>
+</resources>
