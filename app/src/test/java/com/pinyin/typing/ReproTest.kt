@@ -665,12 +665,14 @@ class ReproTest {
         val app = ApplicationProvider.getApplicationContext<App>()
         assertTrue("内置发音包应可用", SyllableVoice.available(app))
         SyllableVoice.speak(app, listOf("nǐ", "hǎo"))
-        ShadowLooper.idleMainLooper()
+        SyllableVoice.awaitIdle()
         SyllableVoice.stop()
+        SyllableVoice.awaitIdle()
         // 不存在的音节直接忽略，不抛异常
         SyllableVoice.speak(app, listOf("zzz9"))
-        ShadowLooper.idleMainLooper()
+        SyllableVoice.awaitIdle()
         SyllableVoice.stop()
+        SyllableVoice.awaitIdle()
         assertFalse("停止后不应仍在播放", SyllableVoice.isSpeaking())
     }
 

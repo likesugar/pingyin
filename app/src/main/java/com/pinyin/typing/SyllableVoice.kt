@@ -42,7 +42,17 @@ object SyllableVoice {
     fun isSpeaking(): Boolean = speaking
 
     fun stop() {
+        // 立即置为非播放，主线程读到的按钮状态无需等后台线程
+        speaking = false
         worker.post { stopInner() }
+    }
+
+    /** 仅测试用：等后台线程把已排队的播放/停止任务处理完，避免时序竞争 */
+    @androidx.annotation.VisibleForTesting
+    fun awaitIdle(timeoutMs: Long = 3000) {
+        val latch = java.util.concurrent.CountDownLatch(1)
+        worker.post { latch.countDown() }
+        latch.await(timeoutMs, java.util.concurrent.TimeUnit.MILLISECONDS)
     }
 
     private fun stopInner() {
