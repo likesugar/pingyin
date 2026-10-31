@@ -11,8 +11,8 @@ android {
         applicationId = "com.pinyin.typing"
         minSdk = 24
         targetSdk = 36
-        versionCode = 22
-        versionName = "1.4.9"
+        versionCode = 23
+        versionName = "1.5.0"
         // 仅保留简体中文资源，剥离其它语言（默认 values 本身即为中文）
         resourceConfigurations += setOf("zh", "zh-rCN")
     }

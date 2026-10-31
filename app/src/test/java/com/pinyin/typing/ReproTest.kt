@@ -484,6 +484,31 @@ class ReproTest {
         assertEquals("展开后按钮应为“缩小”", activity.getString(R.string.jiujian_game_shrink), btn.text)
     }
 
+    /** 「九键怎么打」默认收起，点按钮才展开，再点收起 */
+    @Test
+    fun jiuJianHowDefaultsCollapsed() {
+        val activity = boot()
+        ShadowLooper.idleMainLooper()
+        val nav = activity.findViewById<BottomNavigationView>(R.id.bottomNav)
+        nav.selectedItemId = R.id.nav_jiujian
+        ShadowLooper.idleMainLooper()
+
+        val body = activity.findViewById<View>(R.id.layoutHowBody)
+        val btn = activity.findViewById<Button>(R.id.btnHow)
+        assertEquals("「九键怎么打」默认应收起", View.GONE, body.visibility)
+        assertEquals("默认按钮应为“展开”", activity.getString(R.string.jiujian_how_expand), btn.text)
+
+        btn.performClick()
+        ShadowLooper.idleMainLooper()
+        assertEquals("点击后应展开", View.VISIBLE, body.visibility)
+        assertEquals("展开后按钮应为“收起”", activity.getString(R.string.jiujian_how_collapse), btn.text)
+
+        btn.performClick()
+        ShadowLooper.idleMainLooper()
+        assertEquals("再次点击应收起", View.GONE, body.visibility)
+        assertEquals("收起后按钮应为“展开”", activity.getString(R.string.jiujian_how_expand), btn.text)
+    }
+
     /** 九键模式下：数字在上、完整拼音紧贴其下，行高相应撑开；全拼模式仍只有一行 */
     @Test
     fun nineKeyShowsFullPinyinUnderDigits() {

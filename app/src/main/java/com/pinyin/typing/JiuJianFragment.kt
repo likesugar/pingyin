@@ -34,6 +34,7 @@ class JiuJianFragment : Fragment(R.layout.fragment_jiujian) {
     private var input = ""
     private var score = 0
     private var locked = false   // 答对/答错后的短暂锁定期
+    private var howExpanded = false   // 「九键怎么打」是否展开，默认收起
 
     private val keys = listOf(
         "1" to "分词", "2" to "abc", "3" to "def",
@@ -55,9 +56,25 @@ class JiuJianFragment : Fragment(R.layout.fragment_jiujian) {
         buildGameKeys()
         nextQuestion()
         b.btnShrink.setOnClickListener { toggleGameBody() }
+        b.btnHow.setOnClickListener { setHowExpanded(!howExpanded) }
+        setHowExpanded(savedInstanceState?.getBoolean(KEY_HOW) == true)
         b.btnPractice.setOnClickListener {
             (activity as? MainActivity)?.startJiuJianPractice()
         }
+    }
+
+    /** 「九键怎么打」说明区：默认收起，仅显示标题行 */
+    private fun setHowExpanded(expanded: Boolean) {
+        howExpanded = expanded
+        b.layoutHowBody.visibility = if (expanded) View.VISIBLE else View.GONE
+        b.btnHow.text = getString(
+            if (expanded) R.string.jiujian_how_collapse else R.string.jiujian_how_expand
+        )
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        outState.putBoolean(KEY_HOW, howExpanded)
     }
 
     private fun dp(v: Int): Int = (v * resources.displayMetrics.density).toInt()
@@ -276,5 +293,9 @@ class JiuJianFragment : Fragment(R.layout.fragment_jiujian) {
         handler.removeCallbacksAndMessages(null)
         _b = null
         super.onDestroyView()
+    }
+
+    companion object {
+        private const val KEY_HOW = "how_expanded"
     }
 }

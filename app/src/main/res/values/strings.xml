@@ -10,6 +10,8 @@
     <string name="jiujian_title">九键怎么打</string>
     <string name="jiujian_desc">每个汉字对应 2~6 个数字，按拼音顺序按键即可</string>
     <string name="jiujian_keyboard_title">键盘对应</string>
+    <string name="jiujian_how_expand">展开</string>
+    <string name="jiujian_how_collapse">收起</string>
     <string name="jiujian_rule_title">三个要点</string>
     <string name="jiujian_rule1">① 按拼音顺序按键：你 ni → 64，好 hao → 426</string>
     <string name="jiujian_rule2">② 一个字打满自动判定，空格和标点不用管</string>
